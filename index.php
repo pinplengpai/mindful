@@ -32,9 +32,11 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box p-0">
-                    <div class="p1"></div>
-                </div>
+                    <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box p-0">
+                    <a href="page4.php">
+                        <div class="p1"></div>
+                    </a>
+                    </div>
                 <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box p-0">
                     <div class="p2"></div>
                 </div>

@@ -56,7 +56,7 @@
                     <p>Workshop</p> 
                 </div>
                 <div class="details-button button">
-                    <p>DETAILS</p>  
+                    <a href="page6.php"> <p>DETAILS</p></a>  
                 </div> 
             </div>
             <div class="grey-line"></div>

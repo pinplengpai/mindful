@@ -1,5 +1,6 @@
 body{
     font-family: $font-poppins!important;
+    
 }
 #section1{
     position: relative;
@@ -51,6 +52,7 @@ body{
 
 #section2{
     position:relative;
+    overflow: hidden;
     .bg-pink{
         background-color: $pink1;
         height: auto;

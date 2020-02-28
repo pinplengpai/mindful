@@ -103,7 +103,8 @@ body {
       margin-bottom: 11px; }
 
 #section2 {
-  position: relative; }
+  position: relative;
+  overflow: hidden; }
   #section2 .bg-pink {
     background-color: #F732B5;
     height: auto;
@@ -329,6 +330,9 @@ body {
     display: flex;
     justify-content: space-between;
     width: 100%; }
+  #p2s2 a {
+    text-decoration: none;
+    color: black; }
   #p2s2 .month-year {
     color: #F9FF2F;
     font-size: 1.8rem; }
