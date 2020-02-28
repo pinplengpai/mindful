@@ -1,0 +1,170 @@
+#p2s1{
+    position: relative;
+    background-image: url(../images/bg-event-title.jpg);
+    width: 100%;
+    overflow: hidden;
+    height: 380px;
+    background-repeat: no-repeat;
+    .bg-yellow{
+        background-color: $grey;
+    }
+    p{
+        font-size: 1rem;
+    }
+}
+
+#p2s2{
+    background-image: url('../images/bg-event-page.png');
+    background-position: 70% -7%;
+    background-repeat: no-repeat;
+    background-color:$black;
+    .headline-text{
+        color: $pink1;
+        font-size: 2rem;
+        text-align: center;
+        padding-top: 10%;
+    }    
+    .yellow-line{
+        border-top: 24px solid #F9FF2F;
+        margin: auto;
+        width: 357px;
+        opacity: 1;
+        margin-top: -30px;
+    }
+    .subhead-text{
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+        
+    }
+    .month-year{
+        color: $yellow;
+        font-size: 1.8rem;
+    }
+    .link{
+        cursor: pointer;
+        font-size: 1rem;
+        color: $grey;
+        padding-top: 10px;
+        a{
+            color:#CBCBCB;
+            text-decoration: none; 
+        }
+    }
+    .party-info{
+        display: flex;
+        justify-content: space-between;
+        padding: 0 0 0 40px;
+        margin-top: 3%;
+    }
+    .date{
+        margin-top: 13px;
+        color:$white;
+        max-width: 20px;
+        text-align: center;
+    }
+    .details{
+        display: flex;
+        justify-content: space-between;
+        color: $grey;
+    }
+    .pink{
+        color: $pink1;
+        font-size: 1.4rem;
+        margin-top: -6px;
+    }
+    .small-detail{
+        font-size: 0.9rem;
+        line-height: 0.7;
+        margin-top: -9px;
+
+    }
+
+    .image-small{
+        width: 100px;
+        height: 75px;
+        background-size: cover;
+        margin-right: 18px;
+    }
+    .img1{
+        background-image:url("../images/event-ex-1.jpg");
+    }
+    .img2{
+        background-image:url("../images/event-ex-2.jpg");
+    }
+    .img3{
+        background-image:url("../images/event-ex-3.jpg");
+    }
+    .img4{
+        background-image:url("../images/event-ex-4.jpg");
+    }
+    .img5{
+        background-image:url("../images/event-ex-5.jpg");
+    }
+    .img6{
+        background-image:url("../images/event-ex-4.jpg");
+    }
+    .img7{
+        background-image:url("../images/event-ex-3.jpg");
+    }
+    .img8{
+        background-image:url("../images/event-ex-1.jpg");
+    }
+  
+    .time{
+        padding-top: 27px;
+        color: $grey;
+    }
+    .place{
+        padding-top: 27px;
+        color: $grey;
+    }
+    .tags{
+        color: $pink1;
+        border: 1px solid $pink1;
+        width: 100px;
+        height: 35px;
+        text-align: center;
+        margin-top: 20px;
+        border-radius: 2px;
+        opacity: 1;
+        p {
+            padding-top: 6px;
+        }
+    }
+    .details-button{
+        padding-top: 27px;
+        margin: 16px 0 0 0;
+        padding: 12px;
+    }
+    .grey-line{
+        border-top: 2px solid $grey;
+        margin: auto;
+        width: 100%;
+        opacity: 1;
+        margin-top: 34px;
+    }
+   .viewall{
+        margin-top: 9% !important;
+        margin-bottom: 7% !important;
+        width: 180px !important;
+   }
+    .choose-page{
+        ul{
+            margin-top: 4%;
+            padding-bottom: 6%;
+            margin-bottom:0;
+        }
+        li{ 
+            padding: 2px 12px;
+            color:$white;
+            list-style: none;
+            &.active{
+                background-color: $pink1;
+                width: auto;
+                border-radius: 5px;
+                opacity: 1;
+            }
+        }
+   }
+}

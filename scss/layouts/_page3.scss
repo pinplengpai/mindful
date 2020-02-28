@@ -1,0 +1,160 @@
+#p3s1{
+    background-image: url("../images/bg-artist-title.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 380px;
+    background-color: $grey;
+    margin-bottom: 10%;
+    position:relative;
+}
+
+#p3s2{
+    position:relative;
+    .element-triangle{
+        background-image: url(../images/float-left-artist-page.png);
+        background-repeat: no-repeat;
+        background-position: 5% 191%;
+        top: 20%;
+        width: 100%;
+        height: 106px;
+        z-index: 2;
+        top: -105px;
+        position: absolute;
+    }
+    .element-square{
+        background-image: url(../images/float-right-artist-page.png);
+        background-repeat: no-repeat;
+        background-position: 91% 168%;
+        position: absolute;
+        top: 20%;
+        width: 100%;
+        height: 306px;
+        z-index: 2;
+        top: -105px;
+    }
+    .type-song{
+        margin-bottom: 49px;
+        li{
+            list-style-type: none;
+            padding: 0 15px;
+            color: #736F95;
+            &.active{
+                color: $pink1;
+                text-decoration: underline;
+            }
+        }
+    }
+    .artist-box{
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 321px;
+        padding:0;
+        margin:0;
+        background-color: $grey;
+    }
+    .artist1{
+        background-image: url("../images/artist-ex-1.jpg");
+    }
+    .artist2{
+        background-image: url("../images/artist-ex-2.jpg");
+    }
+    .artist3{
+        background-image: url("../images/artist-ex-3.jpg");
+    }
+    .artist4{
+        background-image: url("../images/artist-ex-4.jpg");
+    }
+    .artist5{
+        background-image: url("../images/artist-ex-5.jpg");
+    }
+    .artist6{
+        background-image: url("../images/artist-ex-6.jpg");
+    }
+    .artist7{
+        background-image: url("../images/artist-ex-7.jpg");
+    }
+    .artist8{
+        background-image: url("../images/artist-ex-8.jpg");
+    }
+    .artist9{
+        background-image: url("../images/artist-ex-9.jpg");
+    }
+    .artist10{
+        background-image: url("../images/artist-ex-10.jpg");
+    }
+    .artist11{
+        background-image: url("../images/artist-ex-1.jpg");
+    }
+    .artist12{
+        background-image: url("../images/artist-ex-2.jpg");
+    }
+    .artist13{
+        background-image: url("../images/artist-ex-3.jpg");
+    }
+    .artist14{
+        background-image: url("../images/artist-ex-4.jpg");
+    }
+    .artist15{
+        background-image: url("../images/artist-ex-5.jpg");
+    }
+    .artist16{
+        background-image: url("../images/artist-ex-6.jpg");
+    }
+    .choose-page{
+        ul{
+            margin-top: 4%;
+            padding-bottom: 6%;
+            margin-bottom:0;
+        }
+        li{ 
+            padding: 2px 12px;
+            color:$black;
+            list-style: none;
+            &.active{
+                background-color: $pink1;
+                width: auto;
+                border-radius: 5px;
+                opacity: 1;
+            }
+        }
+    }
+    .artist-listing-text{
+            color: $pink1;
+        
+    }
+    .yellow-line{
+        border-top: 24px solid #F9FF2F;
+        margin: auto;
+        width: 297px;
+        opacity: 1;
+        margin-top: -25px;
+        margin-bottom: 7%;
+    }
+    .find-artist{
+        width: 17%;
+        margin-left: 47px;
+        margin-bottom: 27px;
+        h2{
+            font-size: 1.5rem;
+            padding-left: 4%;
+        }
+    }
+    .search-artist{
+        color: #CBCBCB;
+        width: 20%;
+        margin-left: -21px;
+        margin-top: 2px;
+        i{
+            padding-right: 11px;
+        }
+        p{
+            margin: 0;
+        }
+        .grey-line{
+            border-top: 2px solid #CBCBCB;
+            width: 250px;
+            opacity: 1;
+        }
+    }
+ 
+}

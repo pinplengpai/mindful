@@ -1,0 +1,26 @@
+#footer-main{
+    .footer-main{
+        background-image: url("../images/bg-footer.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding: 60px 0;
+        width: 100%;
+        text-align: center;
+        color: $white;
+    }
+    .icon{
+        margin-top: 40px;
+        i{
+            color: $white;
+            padding: 0 7px;
+            
+        }
+    }
+    i{
+        font-size: 20px;
+    }
+    img{
+        height: 109px;
+        margin-bottom:30px; 
+    }
+}

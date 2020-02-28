@@ -1,0 +1,170 @@
+#p6s1{
+    background-color: $grey;
+    height: 380px;
+}
+
+#p6s2{
+    background-color: #FCFCFC;
+    padding-top: 7%;
+    .headline{
+        width: 90%;
+    }
+    .yellow-line1{
+        border-top: 15px solid #F9FF2F;
+        width: 424px;
+        opacity: 1;
+        margin-top: -20px;
+    }
+    .yellow-line2{
+        border-top: 15px solid #F9FF2F;
+        width: 230px;
+        opacity: 1;
+        margin-top: -26px;
+    }
+    .information{
+        width: 69%;
+        margin-top: 5%;
+        h3{
+            font-size: 1rem;
+        }
+        p{
+            font-size: 0.8rem;
+            padding-left: 31px;
+        }
+        i{
+            padding-right: 15px;
+            color: $pink1;
+            .map{
+                padding-right: 18px;
+            }
+        }
+        .location{
+            padding-left: 3px;
+        }
+        .market{
+            font-size: 0.7rem;
+            margin-left: 30px;
+            margin-top: 10px;
+            padding: 5px 15px;
+            color: $pink1;
+            border: 1px solid $pink1;
+            cursor: pointer;
+        }
+    }
+    .info-passage{
+        p{
+            font-size: 0.95rem; 
+            padding-bottom: 4%;
+        }
+    }
+    .sharing{
+        width: 30%;
+        padding-bottom: 5%;
+        a{
+            color: #07041F;
+        }
+    }
+}
+
+#p6s3{
+    background-color: #FCFCFC;
+    padding-bottom: 4%;
+    .grey-line{
+        border-top: 2px solid $grey;
+        width: 100%;
+        opacity: 1;
+    }
+    .info{
+        padding-top: 6%;
+        text-align: center;
+        h2{
+            font-size: 1.5rem;
+            text-align: center;
+        }
+        p{
+            text-align: center;
+        }
+       .button-booking{
+           margin: 0;
+       }
+    }
+    
+}
+
+#p6s4{
+    background-color: grey;
+    height: 380px;
+}
+
+#p6s5{
+    background-color: #FCFCFC;
+    .box{
+        padding: 7%;
+    }
+    .yellow-line{
+        border-top: 15px solid #F9FF2F;
+        width: 208px;
+        opacity: 1;
+        margin-top: -26px;
+    }
+    .text{
+        padding-bottom: 4%;
+    }
+    .info-box{
+        height: 450px;
+        margin: 0 5px;
+        padding: 0;
+        box-shadow: 0px 3px 6px #0000000F;
+        opacity: 1;
+    }
+    .picture-info{
+        height: 242px;
+        background-color: grey;
+    }
+   
+    .card-info-header{
+        padding: 25px 15px 0 15px;
+        p{
+            font-size: 1.3rem;
+            font-family: $font-kanit;
+        }
+    }
+    .card-info-detail{
+        color: #6F6F6F;
+        padding: 0 15px;;
+        font-size: 1rem;
+        padding-bottom: 19px;
+        p{
+            margin: 0;
+        }
+    }
+    .grey-line{
+        border-top: 2px solid $grey;
+        width: 100%;
+        opacity: 1;
+
+    }
+    .details-info{
+        .date {
+            width: 16%;
+            .pink{
+                padding-bottom: -6px;
+                color: $pink1;
+                font-size: 1.3rem;
+                margin: 0;
+            }
+            p{
+                margin: 0;
+            }
+        }
+        .type-name{
+            margin-top: 3%;
+            width: 58%;
+            font-size: 0.7rem;
+            color: #6F6F6F;
+        }
+        .sat{
+            padding-top:2px;
+        }
+    }   
+}
