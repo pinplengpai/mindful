@@ -1,6 +1,10 @@
 #p6s1{
     background-color: $grey;
-    height: 380px;
+    height: 480px;
+    background-image: url("../images/bg-event-detail-title.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
 }
 
 #p6s2{
@@ -94,6 +98,9 @@
 #p6s4{
     background-color: grey;
     height: 380px;
+    background-image: url("../images/map.png");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #p6s5{
@@ -120,6 +127,20 @@
     .picture-info{
         height: 242px;
         background-color: grey;
+        width: 100%;
+        background-size: cover;
+    }
+    .image-1{
+        background-image: url("../images/more-event-cover-1.jpg");
+    }
+    .image-2{
+        background-image: url("../images/more-event-cover-2.jpg");
+    }
+    .image-3{
+        background-image: url("../images/more-event-cover-3.jpg");
+    }
+    .image-4{
+        background-image: url("../images/more-event-cover-4.jpg");
     }
    
     .card-info-header{

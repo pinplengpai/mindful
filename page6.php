@@ -4,7 +4,6 @@
         <div class="row ">
             <div class="col-12">
                 <div class="box">
-                    <p>page6</p>
                 </div> 
             </div>
         </div>
@@ -74,7 +73,6 @@
         <div class="row ">
             <div class="col-12">
                 <div class="box">
-                    <p>page6</p>
                 </div> 
             </div>
         </div>
@@ -91,7 +89,7 @@
             <div class="roll d-flex justify-content-between info-box-roll">
                 <!-- 1 -->
                 <div class="col-12 col-sm-6 col-md-3 col-lg-3 info-box">
-                    <div class="picture-info"></div>
+                    <div class="picture-info image-1"></div>
                     <div class="card-info">
                         <div class="card-info-header">
                             <p><b>TCAS on Fire ... ติวไฟลุก ปลุกคะแนนเฮือก</b></p>
@@ -112,7 +110,7 @@
                 </div> 
                 <!-- 2 -->
                 <div class="col-12 col-sm-6 col-md-3 col-lg-3 info-box">
-                    <div class="picture-info"></div>
+                    <div class="picture-info image-2"></div>
                     <div class="card-info">
                         <div class="card-info-header">
                             <p><b>TCAS on Fire ... ติวไฟลุก ปลุกคะแนนเฮือก</b></p>
@@ -133,7 +131,7 @@
                 </div> 
                 <!-- 3 -->
                 <div class="col-12 col-sm-6 col-md-3 col-lg-3 info-box">
-                    <div class="picture-info"></div>
+                    <div class="picture-info image-3"></div>
                     <div class="card-info">
                         <div class="card-info-header">
                             <p><b>TCAS on Fire ... ติวไฟลุก ปลุกคะแนนเฮือก</b></p>
@@ -154,7 +152,7 @@
                 </div> 
                 <!-- 4 -->
                 <div class="col-12 col-sm-6 col-md-3 col-lg-3 info-box">
-                    <div class="picture-info"></div>
+                    <div class="picture-info image-4"></div>
                     <div class="card-info">
                         <div class="card-info-header">
                             <p><b>TCAS on Fire ... ติวไฟลุก ปลุกคะแนนเฮือก</b></p>

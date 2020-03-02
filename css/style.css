@@ -442,7 +442,8 @@ body {
   position: relative; }
 
 #p3s2 {
-  position: relative; }
+  position: relative;
+  overflow: hidden; }
   #p3s2 .element-triangle {
     background-image: url(../images/float-left-artist-page.png);
     background-repeat: no-repeat;
@@ -597,21 +598,35 @@ body {
 
 #p5s1 {
   height: 380px;
-  background-color: #CBCBCB; }
+  background-color: #CBCBCB;
+  background-image: url("../images/bg-about-title.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative; }
 
 #p5s2 {
   background-color: #093BCA; }
+  #p5s2 .bg-about-page {
+    background-image: url(../images/bg-about-page.png);
+    background-repeat: no-repeat;
+    background-position: 41% 31%;
+    height: 400px;
+    overflow: hidden; }
   #p5s2 .text-mindful {
-    padding: 0 25.5%;
+    padding: 0 8%;
     color: #fff;
-    margin: 5% 0; }
+    margin: 7% 0; }
     #p5s2 .text-mindful p {
-      font-size: 1.2rem; }
+      font-size: 1.6rem; }
 
 #p5s3 {
   background-color: #F8168C;
-  padding-top: 5%;
-  padding-bottom: 10%; }
+  padding-top: 7%;
+  padding-bottom: 6%;
+  background-image: url(../images/bg-about-sec-2.png);
+  background-repeat: no-repeat;
+  height: 530px;
+  position: relative; }
   #p5s3 .info-box {
     margin-top: 8%;
     color: #001A65; }
@@ -624,6 +639,15 @@ body {
       width: 232px;
       opacity: 1;
       margin-top: -22px; }
+  #p5s3 .element-1 {
+    background-image: url(../images/float-bottom-about.png);
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 10%;
+    height: 100px;
+    z-index: 2;
+    bottom: -10%;
+    left: 25%; }
   #p5s3 .address-contact-wrapper {
     width: 80%;
     margin-top: 49px; }
@@ -664,7 +688,11 @@ body {
 
 #p6s1 {
   background-color: #CBCBCB;
-  height: 380px; }
+  height: 480px;
+  background-image: url("../images/bg-event-detail-title.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative; }
 
 #p6s2 {
   background-color: #FCFCFC;
@@ -733,7 +761,10 @@ body {
 
 #p6s4 {
   background-color: grey;
-  height: 380px; }
+  height: 380px;
+  background-image: url("../images/map.png");
+  background-repeat: no-repeat;
+  background-size: cover; }
 
 #p6s5 {
   background-color: #FCFCFC; }
@@ -754,7 +785,17 @@ body {
     opacity: 1; }
   #p6s5 .picture-info {
     height: 242px;
-    background-color: grey; }
+    background-color: grey;
+    width: 100%;
+    background-size: cover; }
+  #p6s5 .image-1 {
+    background-image: url("../images/more-event-cover-1.jpg"); }
+  #p6s5 .image-2 {
+    background-image: url("../images/more-event-cover-2.jpg"); }
+  #p6s5 .image-3 {
+    background-image: url("../images/more-event-cover-3.jpg"); }
+  #p6s5 .image-4 {
+    background-image: url("../images/more-event-cover-4.jpg"); }
   #p6s5 .card-info-header {
     padding: 25px 15px 0 15px; }
     #p6s5 .card-info-header p {

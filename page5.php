@@ -12,16 +12,18 @@
 </section>
 
 <section id="p5s2">
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-12 text-mindful">
-                <p>
-                    <b>Mindful Collective</b> is a unique aesthetic music platform showcasing exceptional talent 
-                    from all around the globe, focused on promoting the most distinctive new artists and 
-                    original sounds. In the context of an increasingly fragmented and saturated scene we 
-                    seek to provide clarity and calm, offering a minimalistic stage to shine a spotlight 
-                    on the artists and give them the opportunity to present their music without distraction.
-                </p>
+    <div class="container-fluid bg-about-page">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 text-mindful">
+                    <p>
+                        <b>Mindful Collective</b> is a unique aesthetic music platform showcasing exceptional talent 
+                        from all around the globe, focused on promoting the most distinctive new artists and 
+                        original sounds. In the context of an increasingly fragmented and saturated scene we 
+                        seek to provide clarity and calm, offering a minimalistic stage to shine a spotlight 
+                        on the artists and give them the opportunity to present their music without distraction.
+                    </p>
+                </div>
             </div>
         </div>
     </div>
@@ -29,6 +31,7 @@
 
 <section id="p5s3">
     <div class="container box">
+        <div class="element-1"></div>
         <div class="row">
             <div class="col-12 col-sm-12 col-md-6 col-lg-6 d-flex justify-content-between">
                 <div class="info-box">
@@ -65,8 +68,10 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-12 text-center">
+                    <button class="button submit-button">SUBMIT</button>  
+                </div>
             </div>
-            <button class="button submit-button">SUBMIT</button>   
         </div>
     </div>
 </section>
