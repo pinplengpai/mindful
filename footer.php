@@ -1,22 +1,20 @@
      <!-- footer -->
     <section id="section5">
         <div class="container">
-            <div class="roll">
-                <div class="col-12 box">
-                    <div class="d-flex justify-content-between">
-                        <div class="sub-info">
-                            <h2>Subscribe</h2> 
-                            <div class="pink-line"></div>
-                            <p>Sign up for new releases to your inbox every week.</p>
-                        </div>
-                        <div class="sub-box d-flex justify-content-between">
-                            <div class="email-box">
-                                <p>Email address</p>
-                            </div>
-                            <div class="button pink"><p>SUBSCRIBE</p> </div>
-                        </div>
-                    </div>  
+            <div class="row">
+                <div class="col-12 col-sm-6 box align-self-center">
+                    <div class="sub-info">
+                        <h2>Subscribe</h2> 
+                        <div class="pink-line"></div>
+                        <p>Sign up for new releases to your inbox every week.</p>
                     </div>
+                </div>
+                <div class="col-12 col-sm-6 pt-4 align-self-center">
+                    <div class="sub-box d-flex">
+                        <input class= "form-control" placeholder="Email Address" type="email" id="email" name="email">
+                        <div class="button pink"><p>SUBSCRIBE</p> </div>
+                    </div>
+                </div>
             </div>
         </div>
     </section>

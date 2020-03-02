@@ -12,7 +12,7 @@
 
 <section id="p6s2">
     <div class="container">
-        <div class="roll d-flex justify-content-between">
+        <div class="row d-flex justify-content-between">
             <div class="col-12 col-sm-12 col-md-6 col-lg-6">
                 <div class="headline">
                     <h2>Sequence VII at Mustache <div class=yellow-line1></div> Bar Rest of life</h2>
@@ -55,7 +55,7 @@
 
 <section id="p6s3">
     <div class="container">
-        <div class="roll">
+        <div class="row">
             <div class="grey-line"></div>
                 <div class="col-12">
                     <div class="info">
@@ -81,93 +81,101 @@
 
 <section id="p6s5">
     <div class="contianer box">
-        <div class="roll">
+        <div class="row">
             <div class="col-12 text">
                 <h2>More Events</h2>
                 <div class="yellow-line"></div>
             </div>
-            <div class="roll d-flex justify-content-between info-box-roll">
+            <div class="row info-box-row">
                 <!-- 1 -->
-                <div class="col-12 col-sm-6 col-md-3 col-lg-3 info-box">
-                    <div class="picture-info image-1"></div>
-                    <div class="card-info">
-                        <div class="card-info-header">
-                            <p><b>TCAS on Fire ... ติวไฟลุก ปลุกคะแนนเฮือก</b></p>
+                <div class="col-12 col-sm-6 col-md-3 col-lg-3">
+                    <div class="info-box">
+                        <div class="picture-info image-1"></div>
+                        <div class="card-info">
+                            <div class="card-info-header">
+                                <p><b>TCAS on Fire ... ติวไฟลุก ปลุกคะแนนเฮือก</b></p>
+                            </div>
+                            <div class="card-info-detail">
+                                <p>Learn Hub+ Co Learning Space,</p>
+                            </div>
+                            <div class="grey-line"></div>
                         </div>
-                        <div class="card-info-detail">
-                            <p>Learn Hub+ Co Learning Space,</p>
-                        </div>
-                        <div class="grey-line"></div>
-                    </div>
-                    <div class="details-info d-flex justify-content-center">
-                        <div class="date">
-                            <p><span class=pink><b> 26</b> </span> <span class="sat">Sat</span></p>
-                        </div>
-                        <div class="type-name">
-                        Vocal Deep House, Tech House, Melodic Techno
+                        <div class="details-info d-flex justify-content-center">
+                            <div class="date">
+                                <p><span class=pink><b> 26</b> </span> <span class="sat">Sat</span></p>
+                            </div>
+                            <div class="type-name">
+                            Vocal Deep House, Tech House, Melodic Techno
+                            </div>
                         </div>
                     </div>
                 </div> 
                 <!-- 2 -->
-                <div class="col-12 col-sm-6 col-md-3 col-lg-3 info-box">
-                    <div class="picture-info image-2"></div>
-                    <div class="card-info">
-                        <div class="card-info-header">
-                            <p><b>TCAS on Fire ... ติวไฟลุก ปลุกคะแนนเฮือก</b></p>
+                <div class="col-12 col-sm-6 col-md-3 col-lg-3">
+                    <div class="info-box">
+                        <div class="picture-info image-2"></div>
+                        <div class="card-info">
+                            <div class="card-info-header">
+                                <p><b>TCAS on Fire ... ติวไฟลุก ปลุกคะแนนเฮือก</b></p>
+                            </div>
+                            <div class="card-info-detail">
+                                <p>Learn Hub+ Co Learning Space,</p>
+                            </div>
+                            <div class="grey-line"></div>
                         </div>
-                        <div class="card-info-detail">
-                            <p>Learn Hub+ Co Learning Space,</p>
-                        </div>
-                        <div class="grey-line"></div>
-                    </div>
-                    <div class="details-info d-flex justify-content-center">
-                        <div class="date">
-                            <p><span class=pink><b> 26</b> </span> <span class="sat">Sat</span></p>
-                        </div>
-                        <div class="type-name">
-                        Vocal Deep House, Tech House, Melodic Techno
+                        <div class="details-info d-flex justify-content-center">
+                            <div class="date">
+                                <p><span class=pink><b> 26</b> </span> <span class="sat">Sat</span></p>
+                            </div>
+                            <div class="type-name">
+                            Vocal Deep House, Tech House, Melodic Techno
+                            </div>
                         </div>
                     </div>
                 </div> 
                 <!-- 3 -->
-                <div class="col-12 col-sm-6 col-md-3 col-lg-3 info-box">
-                    <div class="picture-info image-3"></div>
-                    <div class="card-info">
-                        <div class="card-info-header">
-                            <p><b>TCAS on Fire ... ติวไฟลุก ปลุกคะแนนเฮือก</b></p>
+                <div class="col-12 col-sm-6 col-md-3 col-lg-3">
+                    <div class="info-box">
+                        <div class="picture-info image-3"></div>
+                        <div class="card-info">
+                            <div class="card-info-header">
+                                <p><b>TCAS on Fire ... ติวไฟลุก ปลุกคะแนนเฮือก</b></p>
+                            </div>
+                            <div class="card-info-detail">
+                                <p>Learn Hub+ Co Learning Space,</p>
+                            </div>
+                            <div class="grey-line"></div>
                         </div>
-                        <div class="card-info-detail">
-                            <p>Learn Hub+ Co Learning Space,</p>
-                        </div>
-                        <div class="grey-line"></div>
-                    </div>
-                    <div class="details-info d-flex justify-content-center">
-                        <div class="date">
-                            <p><span class=pink><b> 26</b> </span> <span class="sat">Sat</span></p>
-                        </div>
-                        <div class="type-name">
-                        Vocal Deep House, Tech House, Melodic Techno
+                        <div class="details-info d-flex justify-content-center">
+                            <div class="date">
+                                <p><span class=pink><b> 26</b> </span> <span class="sat">Sat</span></p>
+                            </div>
+                            <div class="type-name">
+                            Vocal Deep House, Tech House, Melodic Techno
+                            </div>
                         </div>
                     </div>
                 </div> 
                 <!-- 4 -->
-                <div class="col-12 col-sm-6 col-md-3 col-lg-3 info-box">
-                    <div class="picture-info image-4"></div>
-                    <div class="card-info">
-                        <div class="card-info-header">
-                            <p><b>TCAS on Fire ... ติวไฟลุก ปลุกคะแนนเฮือก</b></p>
+                <div class="col-12 col-sm-6 col-md-3 col-lg-3">
+                    <div class="info-box">
+                        <div class="picture-info image-4"></div>
+                        <div class="card-info">
+                            <div class="card-info-header">
+                                <p><b>TCAS on Fire ... ติวไฟลุก ปลุกคะแนนเฮือก</b></p>
+                            </div>
+                            <div class="card-info-detail">
+                                <p>Learn Hub+ Co Learning Space,</p>
+                            </div>
+                            <div class="grey-line"></div>
                         </div>
-                        <div class="card-info-detail">
-                            <p>Learn Hub+ Co Learning Space,</p>
-                        </div>
-                        <div class="grey-line"></div>
-                    </div>
-                    <div class="details-info d-flex justify-content-center">
-                        <div class="date">
-                            <p><span class=pink><b> 26</b> </span> <span class="sat">Sat</span></p>
-                        </div>
-                        <div class="type-name">
-                        Vocal Deep House, Tech House, Melodic Techno
+                        <div class="details-info d-flex justify-content-center">
+                            <div class="date">
+                                <p><span class=pink><b> 26</b> </span> <span class="sat">Sat</span></p>
+                            </div>
+                            <div class="type-name">
+                            Vocal Deep House, Tech House, Melodic Techno
+                            </div>
                         </div>
                     </div>
                 </div> 

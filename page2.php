@@ -13,7 +13,7 @@
 <!-- section2 -->
 <section id="p2s2">
 <div class="container">
-        <div class="roll">
+        <div class="row">
             <div class="col-12 headline-text">
                 <h1>Events Listing</h1>
                 <div class="yellow-line"></div>
@@ -27,9 +27,9 @@
                 </div>
                 </div>
         </div>
-        <div class="roll">
+        <div class="row">
             <!-- 1 -->
-            <div class="col12 party-info">
+            <div class="col-12 party-info">
                 <div class="date">
                     <b style="font-size:1.5rem">26</b> Sat
                 </div>
@@ -61,7 +61,7 @@
             </div>
             <div class="grey-line"></div>
         <!-- 2 -->
-        <div class="col12 party-info">
+        <div class="col-12 party-info">
                 <div class="date">
                     <b style="font-size:1.5rem">26</b> Sat
                 </div>
@@ -93,7 +93,7 @@
             </div>
             <div class="grey-line"></div>
         <!-- 3 -->
-        <div class="col12 party-info">
+        <div class="col-12 party-info">
                 <div class="date">
                     <b style="font-size:1.5rem">26</b> Sat
                 </div>
@@ -125,7 +125,7 @@
             </div>
             <div class="grey-line"></div>
         <!-- 4 -->
-        <div class="col12 party-info">
+        <div class="col-12 party-info">
                 <div class="date">
                     <b style="font-size:1.5rem">26</b> Sat
                 </div>
@@ -157,7 +157,7 @@
             </div>
             <div class="grey-line"></div>
         <!-- 5 -->
-        <div class="col12 party-info">
+        <div class="col-12 party-info">
                 <div class="date">
                     <b style="font-size:1.5rem">26</b> Sat
                 </div>
@@ -190,7 +190,7 @@
         </div>
         <div class="grey-line"></div>
          <!-- 6 -->
-         <div class="col12 party-info">
+         <div class="col-12 party-info">
                 <div class="date">
                     <b style="font-size:1.5rem">26</b> Sat
                 </div>
@@ -222,7 +222,7 @@
             </div>
             <div class="grey-line"></div>
         <!-- 7 -->
-        <div class="col12 party-info">
+        <div class="col-12 party-info">
                 <div class="date">
                     <b style="font-size:1.5rem">26</b> Sat
                 </div>
@@ -254,7 +254,7 @@
             </div>
         <div class="grey-line"></div>
         <!-- 8 -->
-        <div class="col12 party-info">
+        <div class="col-12 party-info">
                 <div class="date">
                     <b style="font-size:1.5rem">26</b> Sat
                 </div>

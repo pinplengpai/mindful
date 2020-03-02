@@ -22,8 +22,9 @@
 
 <!-- second section -->
 <section id="section2">
+    <div class="element1"></div>
+    <div class="element2"></div>
     <div class="container-fluid bg-pink bg-artist">
-        <div class="element1"></div>
         <div class="container">
             <div class="row">
                 <div class="col-12 title-section2">
@@ -75,16 +76,12 @@
                 </div>
                 <div class="col-12 subhead-text">
                     <p class="month-year">April - 2020</p>
-                    <div class="link">
-                    <a href="#">Arts & Music</a> |
-                    <a href="#">Workshop</a> |
-                    <a href="#">Market</a>
                 </div>
-                </div>
+            </div>
         </div>
-        <div class="roll">
+        <div class="row">
             <!-- 1 -->
-            <div class="col12 party-info">
+            <div class="col-12 party-info">
                 <div class="date">
                     <b style="font-size:1.5rem">26</b> Sat
                 </div>
@@ -116,7 +113,7 @@
             </div>
             <div class="grey-line"></div>
         <!-- 2 -->
-        <div class="col12 party-info">
+        <div class="col-12 party-info">
                 <div class="date">
                     <b style="font-size:1.5rem">26</b> Sat
                 </div>
@@ -148,7 +145,7 @@
             </div>
             <div class="grey-line"></div>
         <!-- 3 -->
-        <div class="col12 party-info">
+        <div class="col-12 party-info">
                 <div class="date">
                     <b style="font-size:1.5rem">26</b> Sat
                 </div>
@@ -180,7 +177,7 @@
             </div>
             <div class="grey-line"></div>
         <!-- 4 -->
-        <div class="col12 party-info">
+        <div class="col-12 party-info">
                 <div class="date">
                     <b style="font-size:1.5rem">26</b> Sat
                 </div>
@@ -212,7 +209,7 @@
             </div>
             <div class="grey-line"></div>
         <!-- 5 -->
-        <div class="col12 party-info">
+        <div class="col-12 party-info">
                 <div class="date">
                     <b style="font-size:1.5rem">26</b> Sat
                 </div>

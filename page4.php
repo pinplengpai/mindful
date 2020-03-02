@@ -44,29 +44,21 @@
 <section id="p4s3">
     <div class="container box">
     <div class="row">
-            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box">
-                1
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box image-1">
             </div>
-            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box">
-                2
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box image-2">
             </div>
-            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box">
-                3
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box image-3">
             </div>
-            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box">
-                4
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box image-4">
             </div>
-            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box">
-                5
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box image-5">
             </div>
-            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box">
-                6
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box image-6">
             </div>
-            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box">
-                7
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box image-7">
             </div>
-            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box">
-                8
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box image-8">
             </div>
         </div>
     </div>

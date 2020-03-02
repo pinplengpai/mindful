@@ -54,7 +54,33 @@
     }
 
     .artist-box{
-        border: 1px solid black;
         height: 191px;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    
+    .image-1{
+        background-image: url("../images/artist-ex-1.jpg");
+    }
+    .image-2{
+        background-image: url("../images/artist-ex-2.jpg");
+    }
+    .image-3{
+        background-image: url("../images/artist-ex-3.jpg");
+    }
+    .image-4{
+        background-image: url("../images/artist-ex-4.jpg");
+    }
+    .image-5{
+        background-image: url("../images/artist-ex-5.jpg");
+    }
+    .image-6{
+        background-image: url("../images/artist-ex-6.jpg");
+    }
+    .image-7{
+        background-image: url("../images/artist-ex-7.jpg");
+    }
+    .image-8{
+        background-image: url("../images/artist-ex-8.jpg");
     }
 }
