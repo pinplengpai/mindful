@@ -73,6 +73,7 @@
             <div class="col-12 headline-text">
                 <h1>Upcoming Events</h1>
                 <div class="yellow-line"></div>
+                <h2 class="provider"> Provider </h2>
                 </div>
                 <div class="col-12 subhead-text">
                     <p class="month-year">April - 2020</p>

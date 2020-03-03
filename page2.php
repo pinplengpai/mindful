@@ -17,17 +17,12 @@
             <div class="col-12 headline-text">
                 <h1>Events Listing</h1>
                 <div class="yellow-line"></div>
+                <h2 class="listing"> Listing </h2>
                 </div>
                 <div class="col-12 subhead-text">
                     <p class="month-year">April - 2020</p>
-                    <div class="link">
-                    <a href="#">Arts & Music</a> |
-                    <a href="#">Workshop</a> |
-                    <a href="#">Market</a>
                 </div>
                 </div>
-        </div>
-        <div class="row">
             <!-- 1 -->
             <div class="col-12 party-info">
                 <div class="date">
@@ -61,7 +56,7 @@
             </div>
             <div class="grey-line"></div>
         <!-- 2 -->
-        <div class="col-12 party-info">
+            <div class="col-12 party-info">
                 <div class="date">
                     <b style="font-size:1.5rem">26</b> Sat
                 </div>
@@ -92,8 +87,8 @@
                 </div> 
             </div>
             <div class="grey-line"></div>
-        <!-- 3 -->
-        <div class="col-12 party-info">
+            <!-- 3 -->
+            <div class="col-12 party-info">
                 <div class="date">
                     <b style="font-size:1.5rem">26</b> Sat
                 </div>
@@ -124,8 +119,8 @@
                 </div> 
             </div>
             <div class="grey-line"></div>
-        <!-- 4 -->
-        <div class="col-12 party-info">
+            <!-- 4 -->
+            <div class="col-12 party-info">
                 <div class="date">
                     <b style="font-size:1.5rem">26</b> Sat
                 </div>
@@ -156,8 +151,8 @@
                 </div> 
             </div>
             <div class="grey-line"></div>
-        <!-- 5 -->
-        <div class="col-12 party-info">
+            <!-- 5 -->
+            <div class="col-12 party-info">
                 <div class="date">
                     <b style="font-size:1.5rem">26</b> Sat
                 </div>
@@ -187,10 +182,9 @@
                     DETAILS
                 </div> 
             </div>
-        </div>
-        <div class="grey-line"></div>
-         <!-- 6 -->
-         <div class="col-12 party-info">
+            <div class="grey-line"></div>
+            <!-- 6 -->
+            <div class="col-12 party-info">
                 <div class="date">
                     <b style="font-size:1.5rem">26</b> Sat
                 </div>
@@ -221,8 +215,8 @@
                 </div> 
             </div>
             <div class="grey-line"></div>
-        <!-- 7 -->
-        <div class="col-12 party-info">
+            <!-- 7 -->
+            <div class="col-12 party-info">
                 <div class="date">
                     <b style="font-size:1.5rem">26</b> Sat
                 </div>
@@ -252,9 +246,9 @@
                     DETAILS
                 </div> 
             </div>
-        <div class="grey-line"></div>
-        <!-- 8 -->
-        <div class="col-12 party-info">
+            <div class="grey-line"></div>
+            <!-- 8 -->
+            <div class="col-12 party-info">
                 <div class="date">
                     <b style="font-size:1.5rem">26</b> Sat
                 </div>
@@ -285,17 +279,18 @@
                 </div> 
             </div>
             <div class="grey-line"></div>
-      <!-- choose pages -->
-        <div class="col-12">
-            <div class="choose-page">
-                <ul class="d-flex justify-content-center">
-                    <li><i class="fas fa-arrow-left" style="color:#5A5865"></i></li>
-                    <li class="active">1</li>
-                    <li>2</li>
-                    <li>3</li>
-                    <li>4</li>
-                    <li><i class="fas fa-arrow-right" style="color:#F732B5"></i></li>
-                </ul>
+        <!-- choose pages -->
+            <div class="col-12">
+                <div class="choose-page">
+                    <ul class="d-flex justify-content-center">
+                        <li><i class="fas fa-arrow-left" style="color:#5A5865"></i></li>
+                        <li class="active">1</li>
+                        <li>2</li>
+                        <li>3</li>
+                        <li>4</li>
+                        <li><i class="fas fa-arrow-right" style="color:#F732B5"></i></li>
+                    </ul>
+                </div>
             </div>
         </div>
     </div>

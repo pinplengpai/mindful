@@ -17,10 +17,11 @@
     <div class="container-fluid">
         <div class="element-triangle"></div>
         <div class="element-square"></div>
-        <div class="row d-flex justify-content-center">
+        <div class="header">
             <h2 class="artist-listing-text">Artists Listing</h2>
+            <div class="yellow-line"></div>
         </div>
-        <div class="yellow-line"></div>
+        <h2 class="listing text-center">Listing</h2>
 
         <div class="row">
             <div class="col-12 d-flex">

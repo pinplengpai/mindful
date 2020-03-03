@@ -8,6 +8,7 @@
 }
 
 #p3s2{
+    background-color: #FCFCFC;
     position:relative;
     padding-top: 10%;
     .element-triangle{
@@ -31,6 +32,13 @@
         height: 279px;
         z-index: 2;
         top: 6%;
+    }
+    .listing{
+        font-family: "Gloss And Bloom", sans-serif !important;
+        font-size: 7rem;
+        margin-top: -13.5%;
+        color: #E8E8EA;
+        z-index: -2;
     }
     .type-song{
         margin-bottom: 49px;
@@ -119,16 +127,20 @@
         }
     }
     .artist-listing-text{
-            color: $pink1;
-        
+        color: $pink1;
+        font-size: 2.5rem;  
+        text-align: center;  
+        position: relative;
+        z-index:2;
     }
     .yellow-line{
         border-top: 24px solid #F9FF2F;
         margin: auto;
-        width: 297px;
+        width: 320px;
         opacity: 1;
         margin-top: -25px;
         margin-bottom: 7%;
+        position: relative;
     }
     .find-artist{
         width: 17%;

@@ -228,6 +228,11 @@ input[placeholder]::-moz-input-placeholder {
   background-position: 25% -12%;
   background-repeat: no-repeat;
   background-size: cover; }
+  #section3 .provider {
+    font-family: "Gloss And Bloom", sans-serif !important;
+    color: rgba(255, 255, 255, 0.2);
+    font-size: 9rem;
+    margin-top: -9.5%; }
   #section3 .headline-text {
     color: #F732B5;
     font-size: 2rem;
@@ -342,6 +347,11 @@ input[placeholder]::-moz-input-placeholder {
   background-position: 70% -7%;
   background-repeat: no-repeat;
   background-color: #07041F; }
+  #p2s2 .listing {
+    font-family: "Gloss And Bloom", sans-serif !important;
+    color: rgba(255, 255, 255, 0.2);
+    font-size: 9rem;
+    margin-top: -9.5%; }
   #p2s2 .headline-text {
     color: #F732B5;
     font-size: 2rem;
@@ -468,6 +478,7 @@ input[placeholder]::-moz-input-placeholder {
   position: relative; }
 
 #p3s2 {
+  background-color: #FCFCFC;
   position: relative;
   padding-top: 10%; }
   #p3s2 .element-triangle {
@@ -490,6 +501,12 @@ input[placeholder]::-moz-input-placeholder {
     height: 279px;
     z-index: 2;
     top: 6%; }
+  #p3s2 .listing {
+    font-family: "Gloss And Bloom", sans-serif !important;
+    font-size: 7rem;
+    margin-top: -13.5%;
+    color: #E8E8EA;
+    z-index: -2; }
   #p3s2 .type-song {
     margin-bottom: 49px; }
     #p3s2 .type-song li {
@@ -552,14 +569,19 @@ input[placeholder]::-moz-input-placeholder {
       border-radius: 5px;
       opacity: 1; }
   #p3s2 .artist-listing-text {
-    color: #F732B5; }
+    color: #F732B5;
+    font-size: 2.5rem;
+    text-align: center;
+    position: relative;
+    z-index: 2; }
   #p3s2 .yellow-line {
     border-top: 24px solid #F9FF2F;
     margin: auto;
-    width: 297px;
+    width: 320px;
     opacity: 1;
     margin-top: -25px;
-    margin-bottom: 7%; }
+    margin-bottom: 7%;
+    position: relative; }
   #p3s2 .find-artist {
     width: 17%;
     margin-left: 47px;
@@ -827,7 +849,7 @@ input[placeholder]::-moz-input-placeholder {
     opacity: 1; }
   #p6s5 .picture-info {
     height: 242px;
-    background-color: grey;
+    background-color: rgba(255, 255, 255, 0.4);
     width: 100%;
     background-size: cover; }
   #p6s5 .image-1 {
@@ -851,7 +873,7 @@ input[placeholder]::-moz-input-placeholder {
     #p6s5 .card-info-detail p {
       margin: 0; }
   #p6s5 .grey-line {
-    border-top: 2px solid #CBCBCB;
+    border-top: 2px solid  #F4F4F4;
     width: 100%;
     opacity: 1; }
   #p6s5 .details-info .date {
