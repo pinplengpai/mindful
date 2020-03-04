@@ -23,7 +23,7 @@ input[placeholder]::-moz-input-placeholder {
         background-color: $grey;
         width: 100%;
         height: auto;
-        padding: 100px 0;
+        padding: 100px 15px;
     }
     .headline{
         text-align: center;
@@ -69,7 +69,7 @@ input[placeholder]::-moz-input-placeholder {
     .bg-pink{
         background-color: $pink1;
         height: auto;
-        padding: 0 0 60px 0;
+        padding: 0 15px 60px 15px;
     }
     .element1{
         background-image:url("../images/float-left-artist.png");
@@ -104,9 +104,36 @@ input[placeholder]::-moz-input-placeholder {
     }
     .artist-box{
         height: 321px;
+
+        .box-bg{
+            width: 100%;
+            height: 100%;
+            background-size: cover;
+            position: relative;
+        }
+
+        .box-hover {
+            display: none;
+            position: absolute;
+            top: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 70%;
+            height: 100%;
+        }
+
+        a {
+            &:hover {
+                .box-hover {
+                    display: block;
+                } 
+            }
+        }
     }
     .artist-box-margin{
         margin: 0 141px;
+
+        
     }
 
     .yellow-line{
@@ -116,36 +143,7 @@ input[placeholder]::-moz-input-placeholder {
         opacity: 1;
         margin-top: -26px;   
     }
-    .p1,.p2,.p3,.p4,.p5,.p6,.p7,.p8{
-        width: 100%;
-        height: 100%;
-        background-size: cover;
-    }
-    .p1{
-        background-image:url("../images/artist-ex-1.jpg");
-    }
-    .p2{
-        background-image:url("../images/artist-ex-2.jpg");
-    }
-    .p3{
-        background-image:url("../images/artist-ex-3.jpg");
-    }
-    .p4{
-        background-image:url("../images/artist-ex-4.jpg");
-    }
-    .p5{
-        background-image:url("../images/artist-ex-4.jpg");
-    }
-    .p6{
-        background-image:url("../images/artist-ex-5.jpg");
-    }
-    .p7{
-        background-image:url("../images/artist-ex-6.jpg");
-    }
-    .p8{
-        background-image:url("../images/artist-ex-7.jpg");
-    }
-    
+        
 }
 
 #section3{
@@ -201,7 +199,7 @@ input[placeholder]::-moz-input-placeholder {
     .party-info{
         display: flex;
         justify-content: space-around;
-        padding: 0;
+        padding: 0 15px;
         margin-top: 6%;
     }
     .date{

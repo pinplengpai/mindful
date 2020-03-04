@@ -128,7 +128,7 @@ input[placeholder]::-moz-input-placeholder {
     background-color: #CBCBCB;
     width: 100%;
     height: auto;
-    padding: 100px 0; }
+    padding: 100px 15px; }
   #section1 .headline {
     text-align: center; }
     #section1 .headline h2 {
@@ -164,7 +164,7 @@ input[placeholder]::-moz-input-placeholder {
   #section2 .bg-pink {
     background-color: #F732B5;
     height: auto;
-    padding: 0 0 60px 0; }
+    padding: 0 15px 60px 15px; }
   #section2 .element1 {
     background-image: url("../images/float-left-artist.png");
     background-repeat: no-repeat;
@@ -193,6 +193,21 @@ input[placeholder]::-moz-input-placeholder {
     padding-bottom: 47px; }
   #section2 .artist-box {
     height: 321px; }
+    #section2 .artist-box .box-bg {
+      width: 100%;
+      height: 100%;
+      background-size: cover;
+      position: relative; }
+    #section2 .artist-box .box-hover {
+      display: none;
+      position: absolute;
+      top: 0;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 70%;
+      height: 100%; }
+    #section2 .artist-box a:hover .box-hover {
+      display: block; }
   #section2 .artist-box-margin {
     margin: 0 141px; }
   #section2 .yellow-line {
@@ -201,26 +216,6 @@ input[placeholder]::-moz-input-placeholder {
     width: 189px;
     opacity: 1;
     margin-top: -26px; }
-  #section2 .p1, #section2 .p2, #section2 .p3, #section2 .p4, #section2 .p5, #section2 .p6, #section2 .p7, #section2 .p8 {
-    width: 100%;
-    height: 100%;
-    background-size: cover; }
-  #section2 .p1 {
-    background-image: url("../images/artist-ex-1.jpg"); }
-  #section2 .p2 {
-    background-image: url("../images/artist-ex-2.jpg"); }
-  #section2 .p3 {
-    background-image: url("../images/artist-ex-3.jpg"); }
-  #section2 .p4 {
-    background-image: url("../images/artist-ex-4.jpg"); }
-  #section2 .p5 {
-    background-image: url("../images/artist-ex-4.jpg"); }
-  #section2 .p6 {
-    background-image: url("../images/artist-ex-5.jpg"); }
-  #section2 .p7 {
-    background-image: url("../images/artist-ex-6.jpg"); }
-  #section2 .p8 {
-    background-image: url("../images/artist-ex-7.jpg"); }
 
 #section3 {
   background-color: #07041F;
@@ -264,7 +259,7 @@ input[placeholder]::-moz-input-placeholder {
   #section3 .party-info {
     display: flex;
     justify-content: space-around;
-    padding: 0;
+    padding: 0 15px;
     margin-top: 6%; }
   #section3 .date {
     margin-top: 13px;
@@ -517,44 +512,22 @@ input[placeholder]::-moz-input-placeholder {
         color: #F732B5;
         text-decoration: underline; }
   #p3s2 .artist-box {
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 321px;
-    padding: 0;
-    margin: 0;
-    background-color: #CBCBCB; }
-  #p3s2 .artist1 {
-    background-image: url("../images/artist-ex-1.jpg"); }
-  #p3s2 .artist2 {
-    background-image: url("../images/artist-ex-2.jpg"); }
-  #p3s2 .artist3 {
-    background-image: url("../images/artist-ex-3.jpg"); }
-  #p3s2 .artist4 {
-    background-image: url("../images/artist-ex-4.jpg"); }
-  #p3s2 .artist5 {
-    background-image: url("../images/artist-ex-5.jpg"); }
-  #p3s2 .artist6 {
-    background-image: url("../images/artist-ex-6.jpg"); }
-  #p3s2 .artist7 {
-    background-image: url("../images/artist-ex-7.jpg"); }
-  #p3s2 .artist8 {
-    background-image: url("../images/artist-ex-8.jpg"); }
-  #p3s2 .artist9 {
-    background-image: url("../images/artist-ex-9.jpg"); }
-  #p3s2 .artist10 {
-    background-image: url("../images/artist-ex-10.jpg"); }
-  #p3s2 .artist11 {
-    background-image: url("../images/artist-ex-1.jpg"); }
-  #p3s2 .artist12 {
-    background-image: url("../images/artist-ex-2.jpg"); }
-  #p3s2 .artist13 {
-    background-image: url("../images/artist-ex-3.jpg"); }
-  #p3s2 .artist14 {
-    background-image: url("../images/artist-ex-4.jpg"); }
-  #p3s2 .artist15 {
-    background-image: url("../images/artist-ex-5.jpg"); }
-  #p3s2 .artist16 {
-    background-image: url("../images/artist-ex-6.jpg"); }
+    height: 321px; }
+    #p3s2 .artist-box .box-bg {
+      width: 100%;
+      height: 100%;
+      background-size: cover;
+      position: relative; }
+    #p3s2 .artist-box .box-hover {
+      display: none;
+      position: absolute;
+      top: 0;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 70%;
+      height: 100%; }
+    #p3s2 .artist-box a:hover .box-hover {
+      display: block; }
   #p3s2 .choose-page ul {
     margin-top: 4%;
     padding-bottom: 6%;

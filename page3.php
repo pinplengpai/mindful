@@ -49,38 +49,166 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box artist1">
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box p-0">
+                <a href="page4.php">
+                    <div class="box-bg p1" style='background-image:url("images/artist-ex-1.jpg")'></div>
+                    <div class="box-hover">
+                        <lottie-player
+                            src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
+                        </lottie-player>
+                    </div>
+                </a>
             </div>
-            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box artist2">
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box p-0">
+                <a href="#">
+                    <div class="box-bg p1" style='background-image:url("images/artist-ex-2.jpg")'></div>
+                    <div class="box-hover">
+                        <lottie-player
+                            src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
+                        </lottie-player>
+                    </div>
+                </a>
+                </div>
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box p-0">
+                <a href="#">
+                    <div class="box-bg p2" style='background-image:url("images/artist-ex-3.jpg")'></div>
+                    <div class="box-hover">
+                        <lottie-player
+                            src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
+                        </lottie-player>
+                    </div>
+                </a>
             </div>
-            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box artist3">
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box p-0">
+                <a href="#">
+                    <div class="box-bg p3" style='background-image:url("images/artist-ex-4.jpg")'></div>
+                    <div class="box-hover">
+                    <lottie-player
+                        src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
+                    </lottie-player>
+                </div>
+                </a>
             </div>
-            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box artist4">
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box p-0">
+                <a href="#">
+                    <div class="box-bg p4" style='background-image:url("images/artist-ex-5.jpg")'></div>
+                    <div class="box-hover">
+                    <lottie-player
+                        src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
+                    </lottie-player>
+                    </div>
+                </a>
             </div>
-            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box artist5">
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box p-0">
+                <a href="#">
+                    <div class="box-bg p5" style='background-image:url("images/artist-ex-6.jpg")'></div>
+                    <div class="box-hover">
+                    <lottie-player
+                        src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
+                    </lottie-player>
+                    </div>
+                </a>
             </div>
-            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box artist6">
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box p-0">
+                <a href="">
+                    <div class="box-bg p6" style='background-image:url("images/artist-ex-7.jpg")'></div>
+                    <div class="box-hover">
+                    <lottie-player
+                        src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
+                    </lottie-player>
+                    </div>
+                </a>
             </div>
-            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box artist7">
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box p-0">
+                <a href="#">
+                <div class="box-bg p7" style='background-image:url("images/artist-ex-8.jpg")'></div>
+                <div class="box-hover">
+                    <lottie-player
+                        src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
+                    </lottie-player>
+                </div>
+                </a>
             </div>
-            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box artist8">
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box p-0">
+                <a href="#">
+                <div class="box-bg p8" style='background-image:url("images/artist-ex-9.jpg")'></div>
+                <div class="box-hover">
+                    <lottie-player
+                        src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
+                    </lottie-player>
+                </div>
+                </a>
+            </div>  
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box p-0">
+                <a href="#">
+                    <div class="box-bg p1" style='background-image:url("images/artist-ex-10.jpg")'></div>
+                    <div class="box-hover">
+                        <lottie-player
+                            src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
+                        </lottie-player>
+                    </div>
+                </a>
+                </div>
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box p-0">
+                <a href="#">
+                    <div class="box-bg p2" style='background-image:url("images/artist-ex-1.jpg")'></div>
+                    <div class="box-hover">
+                        <lottie-player
+                            src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
+                        </lottie-player>
+                    </div>
+                </a>
             </div>
-            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box artist9">
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box p-0">
+                <a href="#">
+                    <div class="box-bg p3" style='background-image:url("images/artist-ex-2.jpg")'></div>
+                    <div class="box-hover">
+                    <lottie-player
+                        src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
+                    </lottie-player>
+                </div>
+                </a>
             </div>
-            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box artist10">
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box p-0">
+                <a href="#">
+                    <div class="box-bg p4" style='background-image:url("images/artist-ex-3.jpg")'></div>
+                    <div class="box-hover">
+                    <lottie-player
+                        src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
+                    </lottie-player>
+                    </div>
+                </a>
             </div>
-            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box artist11">
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box p-0">
+                <a href="#">
+                    <div class="box-bg p5" style='background-image:url("images/artist-ex-4.jpg")'></div>
+                    <div class="box-hover">
+                    <lottie-player
+                        src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
+                    </lottie-player>
+                    </div>
+                </a>
             </div>
-            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box artist12">
-            </div>   
-            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box artist13">
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box p-0">
+                <a href="">
+                    <div class="box-bg p6" style='background-image:url("images/artist-ex-5.jpg")'></div>
+                    <div class="box-hover">
+                    <lottie-player
+                        src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
+                    </lottie-player>
+                    </div>
+                </a>
             </div>
-            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box artist14">
+            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box p-0">
+                <a href="#">
+                <div class="box-bg p7" style='background-image:url("images/artist-ex-6.jpg")'></div>
+                <div class="box-hover">
+                    <lottie-player
+                        src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
+                    </lottie-player>
+                </div>
+                </a>
             </div>
-            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box artist15">
-            </div>
-            <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box artist16">
-            </div> 
         </div>
         <div class="col-12">
             <div class="choose-page">
