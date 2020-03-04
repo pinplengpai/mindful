@@ -23,7 +23,7 @@ input[placeholder]::-moz-input-placeholder {
         background-color: $grey;
         width: 100%;
         height: auto;
-        padding: 100px 15px;
+        padding:76px 15px;
     }
     .headline{
         text-align: center;
@@ -60,6 +60,10 @@ input[placeholder]::-moz-input-placeholder {
         }
         .h2-box{
             margin-bottom: 11px;
+        }
+
+        .button-yellow{
+            margin: 5%;
         }
     }
 }
@@ -143,6 +147,7 @@ input[placeholder]::-moz-input-placeholder {
         opacity: 1;
         margin-top: -26px;   
     }
+    
         
 }
 
@@ -285,4 +290,82 @@ input[placeholder]::-moz-input-placeholder {
     margin-bottom: 7% !important;
     width: 180px !important;
    }
+}
+
+@media (max-width: 780px) {
+    #section2{ 
+        .artist-box{
+            height: 320px;
+        }
+    }
+    #section3{
+        .date{
+            margin-top: 15px;
+            color: #fff;
+            max-width: 8%;
+            text-align: center;
+        }
+        .image-small{
+            width: 100px;
+            height: 64px;
+            background-size: cover;
+            margin-right: 15px;
+            margin-top: 16px;
+        }
+        .pink{
+            font-size: 1rem;
+            margin-top: 16%;
+        }
+        .small-detail{
+            line-height: 1.2;
+            margin-top: -9px;
+            p{
+                font-size:0.5rem;
+                margin: 0;
+            }
+        }
+        .time{
+            font-size: 0.7rem;
+            width: 9%;
+        }
+        .place{
+            font-size: 0.7rem;
+            width: 10%;
+
+        }
+        .tags{
+            font-size: 0.7rem;
+            border: 1px solid #F732B5;
+            width: 72px;
+            height: 32px;
+            text-align: center;
+            margin-top: 28px;
+            border-radius: 2px;
+            opacity: 1;
+        }
+        .details-button{
+            padding-top: 27px;
+            margin: 23px 0 0 0;
+            padding: 12px;
+        }
+        .button-yellow{
+            width: 122px;
+        }
+    }
+}
+    
+@media (max-width: 375px) {
+    #section1{
+        .headline{
+            .pink-line{
+                width: 100%;
+            }
+        }
+    }
+    #section3 {
+        .date, .image-small, .details-info, .details-button{
+            width: 33.33%;
+        }
+    }
+
 }

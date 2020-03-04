@@ -61,7 +61,7 @@
                     <div class="info">
                         <h2>WANT A TICKET?</h2>
                         <p>Organizer of Sequence VII at Mustache Bar</p>
-                        <button class="button button-booking">BOOKING</button>
+                        <button class="button-yellow button-booking">BOOKING</button>
                     </div>
                 </div>
         </div>

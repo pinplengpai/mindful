@@ -26,7 +26,7 @@
 
 #navbar-main {
   color: black !important;
-  padding: 0px 125px; }
+  padding: 0px 10%; }
   #navbar-main li {
     font-family: "Poppins", sans-serif;
     font-size: 1rem; }
@@ -37,13 +37,15 @@
   #navbar-main img {
     height: 108px;
     width: 130px; }
-  #navbar-main button {
+  #navbar-main .button-yellow {
     margin-left: 20px;
     background-color: #F9FF2F;
     border: 0;
     border-radius: 25px;
     height: 50px;
     width: 120px; }
+  #navbar-main .navbar-toggler-icon {
+    color: #07041F; }
   #navbar-main .thai {
     color: #CBCBCB;
     font-family: "Kanit", sans-serif; }
@@ -51,17 +53,8 @@
     text-decoration: none;
     color: #07041F;
     position: relative; }
-  #navbar-main .form-inline li:first-child a:after {
-    content: "";
-    position: absolute;
-    width: 1px;
-    height: 38%;
-    background-color: #CBCBCB;
-    right: 4px;
-    top: 50%;
-    transform: translateY(-50%); }
 
-.button {
+.button-yellow {
   margin-top: 54px;
   margin-left: 20px;
   background-color: #F9FF2F;
@@ -106,6 +99,25 @@
       padding-top: 14px;
       font-size: 1rem; }
 
+@media (max-width: 780px) {
+  #section5 .sub-info h2 {
+    font-size: 1.7rem; }
+  #section5 .sub-info p {
+    font-size: 0.9rem; }
+  #section5 .pink-line {
+    border-top: 21px solid #F732B5;
+    width: 154px;
+    opacity: 1;
+    margin-top: -25px; }
+  #section5 .button {
+    background-color: #F732B5;
+    color: #fff;
+    padding: 0 9px;
+    margin: 0px 3px 0px 28px; }
+    #section5 .button p {
+      font-size: 0.8rem; }
+  #section5 #email.form-control {
+    margin: 0 -22px; } }
 body {
   font-family: "Poppins", sans-serif !important; }
 
@@ -128,7 +140,7 @@ input[placeholder]::-moz-input-placeholder {
     background-color: #CBCBCB;
     width: 100%;
     height: auto;
-    padding: 100px 15px; }
+    padding: 76px 15px; }
   #section1 .headline {
     text-align: center; }
     #section1 .headline h2 {
@@ -158,6 +170,8 @@ input[placeholder]::-moz-input-placeholder {
       margin-top: -41px; }
     #section1 .headline .h2-box {
       margin-bottom: 11px; }
+    #section1 .headline .button-yellow {
+      margin: 5%; }
 
 #section2 {
   position: relative; }
@@ -325,6 +339,57 @@ input[placeholder]::-moz-input-placeholder {
     margin-bottom: 7% !important;
     width: 180px !important; }
 
+@media (max-width: 780px) {
+  #section2 .artist-box {
+    height: 320px; }
+
+  #section3 .date {
+    margin-top: 15px;
+    color: #fff;
+    max-width: 8%;
+    text-align: center; }
+  #section3 .image-small {
+    width: 100px;
+    height: 64px;
+    background-size: cover;
+    margin-right: 15px;
+    margin-top: 16px; }
+  #section3 .pink {
+    font-size: 1rem;
+    margin-top: 16%; }
+  #section3 .small-detail {
+    line-height: 1.2;
+    margin-top: -9px; }
+    #section3 .small-detail p {
+      font-size: 0.5rem;
+      margin: 0; }
+  #section3 .time {
+    font-size: 0.7rem;
+    width: 9%; }
+  #section3 .place {
+    font-size: 0.7rem;
+    width: 10%; }
+  #section3 .tags {
+    font-size: 0.7rem;
+    border: 1px solid #F732B5;
+    width: 72px;
+    height: 32px;
+    text-align: center;
+    margin-top: 28px;
+    border-radius: 2px;
+    opacity: 1; }
+  #section3 .details-button {
+    padding-top: 27px;
+    margin: 23px 0 0 0;
+    padding: 12px; }
+  #section3 .button-yellow {
+    width: 122px; } }
+@media (max-width: 375px) {
+  #section1 .headline .pink-line {
+    width: 100%; }
+
+  #section3 .date, #section3 .image-small, #section3 .details-info, #section3 .details-button {
+    width: 33.33%; } }
 #p2s1 {
   position: relative;
   background-image: url(../images/bg-event-title.jpg);

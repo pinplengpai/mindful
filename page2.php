@@ -50,7 +50,7 @@
                 <div class="tags">
                     <p>Workshop</p> 
                 </div>
-                <div class="details-button button">
+                <div class="details-button button-yellow">
                     <a href="page6.php"> <p>DETAILS</p></a>  
                 </div> 
             </div>
@@ -82,7 +82,7 @@
                 <div class="tags">
                     <p>Workshop</p>  
                 </div>
-                <div class="details-button button">
+                <div class="details-button button-yellow">
                     DETAILS
                 </div> 
             </div>
@@ -114,7 +114,7 @@
                 <div class="tags">
                     <p>Workshop</p>  
                 </div>
-                <div class="details-button button">
+                <div class="details-button button-yellow">
                     DETAILS
                 </div> 
             </div>
@@ -146,7 +146,7 @@
                 <div class="tags">
                     <p>Workshop</p>  
                 </div>
-                <div class="details-button button">
+                <div class="details-button button-yellow">
                     DETAILS
                 </div> 
             </div>
@@ -178,7 +178,7 @@
                 <div class="tags">
                     <p>Workshop</p>  
                 </div>
-                <div class="details-button button">
+                <div class="details-button button-yellow">
                     DETAILS
                 </div> 
             </div>
@@ -210,7 +210,7 @@
                 <div class="tags">
                     <p>Workshop</p>  
                 </div>
-                <div class="details-button button">
+                <div class="details-button button-yellow">
                     DETAILS
                 </div> 
             </div>
@@ -242,7 +242,7 @@
                 <div class="tags">
                     <p>Workshop</p>  
                 </div>
-                <div class="details-button button">
+                <div class="details-button button-yellow">
                     DETAILS
                 </div> 
             </div>
@@ -274,7 +274,7 @@
                 <div class="tags">
                     <p>Workshop</p>  
                 </div>
-                <div class="details-button button">
+                <div class="details-button button-yellow">
                     DETAILS
                 </div> 
             </div>

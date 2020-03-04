@@ -14,7 +14,7 @@
                         <h1><b>ARTIST SUBMISSION</b></h1>
                         <div class="pink-line"></div>
                     </div>
-                    <button class="button m-0">SIGN UP</button> 
+                    <button class=" button-yellow">SIGN UP</button> 
                 </div>
             </div>
         </div>
@@ -117,7 +117,7 @@
                 </div>         
             </div>
             <div class="text-center">
-                <button class="button">VIEW ALL</button>
+                <button class="button-yellow">VIEW ALL</button>
             </div> 
         </div>
     </div>
@@ -163,7 +163,7 @@
                 <div class="tags">
                     <p>Workshop</p> 
                 </div>
-                <div class="details-button button">
+                <div class="details-button button-yellow">
                     <p>DETAILS</p>  
                 </div> 
             </div>
@@ -195,7 +195,7 @@
                 <div class="tags">
                     <p>Workshop</p>  
                 </div>
-                <div class="details-button button">
+                <div class="details-button button-yellow">
                     DETAILS
                 </div> 
             </div>
@@ -227,7 +227,7 @@
                 <div class="tags">
                     <p>Workshop</p>  
                 </div>
-                <div class="details-button button">
+                <div class="details-button button-yellow">
                     DETAILS
                 </div> 
             </div>
@@ -259,7 +259,7 @@
                 <div class="tags">
                     <p>Workshop</p>  
                 </div>
-                <div class="details-button button">
+                <div class="details-button button-yellow">
                     DETAILS
                 </div> 
             </div>
@@ -291,13 +291,13 @@
                 <div class="tags">
                     <p>Workshop</p>  
                 </div>
-                <div class="details-button button">
+                <div class="details-button button-yellow">
                     DETAILS
                 </div> 
             </div>
         </div>
         <div class="text-center">
-            <button class="button viewall">VIEW ALL</button>
+            <button class="button-yellow viewall">VIEW ALL</button>
         </div>
     </div>
 </section>
