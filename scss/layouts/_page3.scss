@@ -16,11 +16,11 @@
         background-repeat: no-repeat;
         background-position: 8% 2%;
         position: absolute;
-        top: 20%;
-        width: 100%;
-        height: 279px;
-        z-index: 2;
         top: 3%;
+        left: 6%;
+        width: 107px;
+        height: 104px;
+        z-index: 2;
     }
     .element-square{
         background-image: url(../images/float-right-artist-page.png);
@@ -28,10 +28,11 @@
         background-position: 91% 163%;
         position: absolute;
         top: 20%;
-        width: 100%;
+        width: 20%;
         height: 279px;
         z-index: 2;
         top: 6%;
+        right:0;
     }
     .listing{
         font-family: "Gloss And Bloom", sans-serif !important;
@@ -51,6 +52,25 @@
                 text-decoration: underline;
             }
         }
+    }
+    #basic-addon1.input-group-text{
+        background-color: white;
+        border: transparent;
+        color: #CBCBCB;
+        background-color: #FCFCFC;
+        border-bottom: 2px solid #CBCBCB;
+        padding: 10px 10px 3px 8px;
+        i{
+            font-size:1.2rem;
+        }
+
+    }
+    .form-control{
+        border: transparent;
+        color: #CBCBCB;
+        background-color: #FCFCFC;
+        border-bottom: 2px solid #CBCBCB;
+        padding: 10px 10px 0 4px;
     }
     .artist-box{
         height: 321px;
@@ -126,14 +146,18 @@
     }
     .search-artist{
         color: #CBCBCB;
-        width: 20%;
+        width: 21%;
         margin-left: -21px;
-        margin-top: 2px;
+        margin-top: -9px;
         i{
             padding-right: 11px;
+            font-size: 1rem;
+            padding:0;
         }
         p{
             margin: 0;
+            padding:0;
+            font-size: 0.8rem;
         }
         .grey-line{
             border-top: 2px solid #CBCBCB;

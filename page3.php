@@ -29,8 +29,12 @@
                     <h2><b>Find Your Artist</b></h2>
                 </div>  
                 <div class="search-artist">
-                    <p> <i class="fas fa-search"></i>Search artist</p>
-                    <div class="grey-line"></div>
+                    <div class="input-group mb-3">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text" id="basic-addon1"><i class="fas fa-search"></i></span>
+                        </div>
+                        <input type="text" class="form-control" placeholder="Search artist" aria-label="Username" aria-describedby="basic-addon1">
+                    </div>
                 </div>
             </div>
             <div class="col-12 type-song">

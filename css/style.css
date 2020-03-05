@@ -120,7 +120,7 @@ input[placeholder]::-moz-input-placeholder {
     background-image: url("../images/banner-sec.jpg");
     background-color: #CBCBCB;
     width: 100%;
-    height: auto;
+    height: 480px;
     padding: 76px 15px; }
   #section1 .headline {
     text-align: center; }
@@ -489,21 +489,22 @@ input[placeholder]::-moz-input-placeholder {
     background-repeat: no-repeat;
     background-position: 8% 2%;
     position: absolute;
-    top: 20%;
-    width: 100%;
-    height: 279px;
-    z-index: 2;
-    top: 3%; }
+    top: 3%;
+    left: 6%;
+    width: 107px;
+    height: 104px;
+    z-index: 2; }
   #p3s2 .element-square {
     background-image: url(../images/float-right-artist-page.png);
     background-repeat: no-repeat;
     background-position: 91% 163%;
     position: absolute;
     top: 20%;
-    width: 100%;
+    width: 20%;
     height: 279px;
     z-index: 2;
-    top: 6%; }
+    top: 6%;
+    right: 0; }
   #p3s2 .listing {
     font-family: "Gloss And Bloom", sans-serif !important;
     font-size: 7rem;
@@ -519,6 +520,21 @@ input[placeholder]::-moz-input-placeholder {
       #p3s2 .type-song li.active {
         color: #F732B5;
         text-decoration: underline; }
+  #p3s2 #basic-addon1.input-group-text {
+    background-color: white;
+    border: transparent;
+    color: #CBCBCB;
+    background-color: #FCFCFC;
+    border-bottom: 2px solid #CBCBCB;
+    padding: 10px 10px 3px 8px; }
+    #p3s2 #basic-addon1.input-group-text i {
+      font-size: 1.2rem; }
+  #p3s2 .form-control {
+    border: transparent;
+    color: #CBCBCB;
+    background-color: #FCFCFC;
+    border-bottom: 2px solid #CBCBCB;
+    padding: 10px 10px 0 4px; }
   #p3s2 .artist-box {
     height: 321px; }
     #p3s2 .artist-box .box-bg {
@@ -572,13 +588,17 @@ input[placeholder]::-moz-input-placeholder {
       padding-left: 4%; }
   #p3s2 .search-artist {
     color: #CBCBCB;
-    width: 20%;
+    width: 21%;
     margin-left: -21px;
-    margin-top: 2px; }
+    margin-top: -9px; }
     #p3s2 .search-artist i {
-      padding-right: 11px; }
+      padding-right: 11px;
+      font-size: 1rem;
+      padding: 0; }
     #p3s2 .search-artist p {
-      margin: 0; }
+      margin: 0;
+      padding: 0;
+      font-size: 0.8rem; }
     #p3s2 .search-artist .grey-line {
       border-top: 2px solid #CBCBCB;
       width: 250px;
@@ -807,8 +827,7 @@ input[placeholder]::-moz-input-placeholder {
 
 #p6s4 {
   background-color: grey;
-  height: 380px;
-  background-image: url("../images/map.png");
+  height: 480px;
   background-repeat: no-repeat;
   background-size: cover; }
 

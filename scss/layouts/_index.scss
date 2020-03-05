@@ -22,7 +22,7 @@ input[placeholder]::-moz-input-placeholder {
         background-image:url("../images/banner-sec.jpg");
         background-color: $grey;
         width: 100%;
-        height: auto;
+        height: 480px;
         padding:76px 15px;
     }
     .headline{
@@ -94,7 +94,6 @@ input[placeholder]::-moz-input-placeholder {
         right: 0;
         top: -105px;
         background-position: 90%;
-
     }
     .bg-artist{
         background-image:url("../images/bg-artist-sec.png");
