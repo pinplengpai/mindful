@@ -203,17 +203,20 @@ input[placeholder]::-moz-input-placeholder {
     }
     .party-info{
         display: flex;
-        justify-content: space-around;
+        justify-content: space-between;
         padding: 0 15px;
-        margin-top: 6%;
+        margin-top: 40px;
     }
     .date{
-        margin-top: 13px;
+        flex: 5%;
+        display: flex;
+        place-items: center;
         color:$white;
         max-width: 20px;
-        text-align: center;
+        flex-wrap: wrap;
     }
     .details{
+        flex-basis: 35%;
         display: flex;
         justify-content: space-between;
         color: $grey;
@@ -224,6 +227,9 @@ input[placeholder]::-moz-input-placeholder {
         margin-top: -6px;
     }
     .small-detail{
+        display: flex;
+        flex-wrap: wrap;
+        // flex-basis: 20%;
         font-size: 0.9rem;
         line-height: 0.7;
         margin-top: -9px;
@@ -253,12 +259,22 @@ input[placeholder]::-moz-input-placeholder {
     }
   
     .time{
-        padding-top: 27px;
+        flex-basis: 15%;
+        display: flex;
+        place-items: center;
         color: $grey;
+        i{
+            padding-right: 12px;
+        }
     }
     .place{
-        padding-top: 27px;
+        flex-basis: 15%;
+        display: flex;
+        place-items: center;
         color: $grey;
+        i{
+            padding-right: 12px;
+        }
     }
     .tags{
         color: $pink1;

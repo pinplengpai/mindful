@@ -139,7 +139,7 @@
             <!-- 1 -->
             <div class="col-12 party-info">
                 <div class="date">
-                    <b style="font-size:1.5rem">26</b> Sat
+                    <span class="font-weight-bold h3">26</span> Sat
                 </div>
                 <div class="details">
                     <div class="image-small img1">
@@ -147,8 +147,8 @@
                     <div class="details-info">
                         <p class="pink">Release Party</p>
                         <div class="small-detail">
-                            <p>WITH COUNTLESS OPTIONS,</p>
-                            <P>RELEASEING...</P>
+                            <p>WITH COUNTLESS OPTIONS,
+                            RELEASEING...</P>
                         </div>
                     </div>
                 </div>
@@ -179,8 +179,8 @@
                     <div class="details-info">
                         <p class="pink">Release Party</p>
                         <div class="small-detail">
-                            <p>WITH COUNTLESS OPTIONS,</p>
-                            <P>RELEASEING...</P>
+                            <p>WITH COUNTLESS OPTIONS,
+                            RELEASEING...</P>
                         </div>
                     </div>
                 </div>
@@ -211,8 +211,8 @@
                     <div class="details-info">
                         <p class="pink">Release Party</p>
                         <div class="small-detail">
-                            <p>WITH COUNTLESS OPTIONS,</p>
-                            <P>RELEASEING...</P>
+                         <p>WITH COUNTLESS OPTIONS,
+                            RELEASEING...</P>
                         </div>
                     </div>
                 </div>
@@ -243,8 +243,8 @@
                     <div class="details-info">
                         <p class="pink">Release Party</p>
                         <div class="small-detail">
-                            <p>WITH COUNTLESS OPTIONS,</p>
-                            <P>RELEASEING...</P>
+                            <p>WITH COUNTLESS OPTIONS,
+                            RELEASEING...</P>
                         </div>
                     </div>
                 </div>
@@ -275,8 +275,8 @@
                     <div class="details-info">
                         <p class="pink">Release Party</p>
                         <div class="small-detail">
-                            <p>WITH COUNTLESS OPTIONS,</p>
-                            <P>RELEASEING...</P>
+                            <p>WITH COUNTLESS OPTIONS,
+                            RELEASEING...</P>
                         </div>
                     </div>
                 </div>
