@@ -787,6 +787,24 @@ input[placeholder]::-moz-input-placeholder {
 #p4s3 .image-8 {
   background-image: url("../images/artist-ex-8.jpg"); }
 
+@media (max-width: 768px) {
+  #p4s2 .yellow-line1 {
+    display: none; }
+  #p4s2 .yellow-line2 {
+    display: none; }
+
+  #p4s3 .artist-box {
+    height: 146px; } }
+@media (max-width: 500px) {
+  #p4s2 .headline h2 {
+    width: 100%; }
+  #p4s2 .yellow-line1 {
+    display: none; }
+  #p4s2 .yellow-line2 {
+    display: none; }
+
+  #p4s3 .artist-box {
+    height: 278px; } }
 #p5s1 {
   height: 380px;
   background-color: #CBCBCB;
