@@ -4,6 +4,7 @@
     background-image: url("../images/bg-event-detail-title.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center center;
     position: relative;
 }
 
@@ -96,7 +97,7 @@
 }
 
 #p6s4{
-    background-color: grey;
+    background-color: white;
     height: 480px;
     // background-image: url("../images/map.png");
     background-repeat: no-repeat;
@@ -129,6 +130,7 @@
         background-color: rgba(255,255,255,0.4);
         width: 100%;
         background-size: cover;
+        background-position: center center;
     }
     .image-1{
         background-image: url("../images/more-event-cover-1.jpg");
@@ -188,4 +190,42 @@
             padding-top:2px;
         }
     }   
+}
+@media (max-width: 1024px){
+    #p6s2{
+        .headline{
+            h2{
+                width: 100%;
+            }
+        }
+        .yellow-line1{
+            display: none;
+        }
+        .yellow-line2{
+            display: none;
+        }
+
+    }
+}
+
+@media (max-width: 500px){
+    #p6s2{
+        .information{
+            margin-bottom: 5%;
+        }
+        .sharing{
+            width: 48%;
+        }
+    }
+    #p6s5 {
+        .details-info .type-name {
+            margin-top: 2px;
+            margin-left: 16px;
+            width: 57%;
+        }
+        .info-box {
+            margin-bottom: 10px;
+        }
+    }
+        
 }
