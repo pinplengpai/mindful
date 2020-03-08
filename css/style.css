@@ -811,6 +811,7 @@ input[placeholder]::-moz-input-placeholder {
   background-image: url("../images/bg-about-title.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center center;
   position: relative; }
 
 #p5s2 {
@@ -895,6 +896,38 @@ input[placeholder]::-moz-input-placeholder {
     text-align: center;
     color: #001A65; }
 
+@media (max-width: 1024px) {
+  #p5s2 .text-mindful {
+    margin: 9% 0; }
+    #p5s2 .text-mindful p {
+      font-size: 1.4rem; }
+
+  #p5s3 .name-box, #p5s3 .email-box, #p5s3 .message-box {
+    width: 432px; } }
+@media (max-width: 768px) {
+  #p5s3 .name-box, #p5s3 .email-box, #p5s3 .message-box {
+    width: 348px; } }
+@media (max-width: 500px) {
+  #p5s2 .text-mindful {
+    margin: 9% 0; }
+    #p5s2 .text-mindful p {
+      font-size: 1rem; }
+
+  #p5s3 {
+    height: auto; }
+    #p5s3 .info-box .mindful-text, #p5s3 .info-box .address-contact-wrapper, #p5s3 .info-box .address {
+      width: 100%; }
+    #p5s3 .info-box .address-contact-wrapper {
+      margin-top: 0; }
+    #p5s3 .submit-button {
+      width: 34%; }
+    #p5s3 .button-yellow {
+      margin: 0; }
+    #p5s3 .name-box, #p5s3 .email-box, #p5s3 .message-box {
+      width: 348px; } }
+@media (max-width: 360px) {
+  #p5s3 .name-box, #p5s3 .email-box, #p5s3 .message-box {
+    width: 290px; } }
 #p6s1 {
   background-color: #CBCBCB;
   height: 480px;

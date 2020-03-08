@@ -4,6 +4,7 @@
     background-image: url("../images/bg-about-title.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center center;
     position:relative;
 }
 
@@ -112,4 +113,73 @@
         color: #001A65;
     }
     
+}
+
+@media (max-width: 1024px){
+    #p5s2 {
+        .text-mindful{
+            margin: 9% 0;
+            p {
+            font-size: 1.4rem;
+            } 
+        }
+        
+    }
+        
+    #p5s3{
+        .name-box, .email-box,.message-box{
+            width: 432px;
+        }
+    }
+}
+
+@media (max-width: 768px){
+        
+    #p5s3{
+        .name-box, .email-box,.message-box{
+            width: 348px;
+        }
+    }
+}
+
+@media (max-width: 500px){
+    #p5s2 {
+        .text-mindful{
+            margin: 9% 0;
+            p {
+            font-size: 1rem;
+            } 
+        }
+        
+    }
+
+    #p5s3{
+        height: auto;
+        .info-box{
+            .mindful-text, .address-contact-wrapper, .address{
+                width: 100%;
+            }
+            .address-contact-wrapper{
+                margin-top: 0;
+            }
+        }
+        .submit-button {
+            width: 34%;
+        }
+        .button-yellow{
+            margin: 0;
+        }
+        .name-box, .email-box,.message-box{
+            width: 348px;
+        }
+    }
+}
+
+@media (max-width: 360px){
+        
+    #p5s3{
+        .name-box, .email-box,.message-box{
+            width: 290px;
+        }
+    }
 }

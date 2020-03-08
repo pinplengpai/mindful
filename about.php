@@ -4,7 +4,6 @@
         <div class="row ">
             <div class="col-12">
                 <div class="box">
-                    <p>page5</p>
                 </div> 
             </div>
         </div>
@@ -41,7 +40,7 @@
                         <p>Etiam convallis, felis quis dapibus dictum, libero mauris luctus nunc, 
                             fringilla purus ligula non justo. Non fringilla purus ligula justo.</p>
                     </div>
-                    <div class="address-contact-wrapper d-flex justify-content-between">
+                    <div class="address-contact-wrapper d-flex">
                         <div class="address">
                             <h2><b>Address</b></h2>
                             <div class="yellow-line2"></div>
@@ -55,7 +54,7 @@
                     </div>
                 </div>
             </div>
-                <div class="col-12 col-sm-12 col-md-6 col-lg-6 d-flex justify-content-between">
+                <div class="col-12 col-sm-12 col-md-6 col-lg-6 d-flex justify-content-center">
                     <div class="putin-box">
                         <div class="name-box">
                             <p>name</p>
