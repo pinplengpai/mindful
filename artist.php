@@ -24,7 +24,7 @@
         <h2 class="listing text-center">Listing</h2>
 
         <div class="row">
-            <div class="col-12 d-flex">
+            <div class="col-12 d-flex flex-wrap">
                 <div class="find-artist">
                     <h2><b>Find Your Artist</b></h2>
                 </div>  
@@ -38,7 +38,7 @@
                 </div>
             </div>
             <div class="col-12 type-song">
-                <ul class="d-flex">
+                <ul class="d-flex flex-wrap">
                     <li class="active">All</li>
                     <li>Rock</li>
                     <li>Blue</li>
@@ -54,7 +54,7 @@
         </div>
         <div class="row">
             <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box p-0">
-                <a href="page4.php">
+                <a href="aritest-detail.php">
                     <div class="box-bg p1" style='background-image:url("images/artist-ex-1.jpg")'></div>
                     <div class="box-hover">
                         <lottie-player
@@ -216,7 +216,7 @@
         </div>
         <div class="col-12">
             <div class="choose-page">
-                <ul class="d-flex justify-content-center">
+                <ul class="d-flex">
                     <li><i class="fas fa-arrow-left" style="color:#5A5865"></i></li>
                     <li class="active">1</li>
                     <li>2</li>

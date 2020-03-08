@@ -5,6 +5,7 @@
     height: 380px;
     background-color: $grey;
     position:relative;
+    background-position: center center;
 }
 
 #p3s2{
@@ -37,7 +38,7 @@
     .listing{
         font-family: "Gloss And Bloom", sans-serif !important;
         font-size: 7rem;
-        margin-top: -13.5%;
+        margin-top: -16.5%;
         color: #E8E8EA;
         z-index: -2;
     }
@@ -136,7 +137,7 @@
         position: relative;
     }
     .find-artist{
-        width: 17%;
+        width: 32%;
         margin-left: 47px;
         margin-bottom: 27px;
         h2{
@@ -166,4 +167,35 @@
         }
     }
  
+}
+
+@media (max-width: 768px){
+    #p3s2{
+        .artist-box{
+            height: 200px;
+        }
+    }
+}
+
+@media (max-width: 500px){
+    #p3s2{
+        .listing{
+            font-size: 6rem;
+            margin-top: -24.5%;
+        }
+        .element-triangle, .element-square{
+            display: none;
+        }
+        .find-artist{
+            width: 73%;
+        }
+        .search-artist{
+            width: 60%;
+            margin-left: 51px;
+            margin-top: -35px;
+        }
+        .artist-box{
+            height: 327px;
+        }
+    }
 }

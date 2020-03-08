@@ -51,7 +51,7 @@
                     <p>Workshop</p> 
                 </div>
                 <div class="details-button button-yellow">
-                    <a href="page6.php"> <p>DETAILS</p></a>  
+                    <a href="event-detail.php"> <p>DETAILS</p></a>  
                 </div> 
             </div>
             <div class="grey-line"></div>
@@ -282,7 +282,7 @@
         <!-- choose pages -->
             <div class="col-12">
                 <div class="choose-page">
-                    <ul class="d-flex justify-content-center">
+                    <ul class="d-flex">
                         <li><i class="fas fa-arrow-left" style="color:#5A5865"></i></li>
                         <li class="active">1</li>
                         <li>2</li>

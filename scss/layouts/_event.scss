@@ -31,8 +31,11 @@
         color: $pink1;
         font-size: 2rem;
         text-align: center;
-        padding-top: 10%;
-    }    
+        padding-top: 16%;
+    }   
+    .subhead-text{
+        padding-top: 7%;
+    } 
     .yellow-line{
         border-top: 24px solid #F9FF2F;
         margin: auto;
@@ -43,12 +46,8 @@
     .subhead-text{
         display: flex;
         justify-content: space-between;
-        width: 100%;
+        width: 99%;
         
-    }
-    a{
-        text-decoration:none;
-        color: black;
     }
     .month-year{
         color: $yellow;
@@ -67,16 +66,19 @@
     .party-info{
         display: flex;
         justify-content: space-between;
-        padding: 0 0 0 40px;
-        margin-top: 3%;
+        padding: 0 15px;
+        margin-top: 40px;
     }
     .date{
-        margin-top: 13px;
+        flex: 5%;
+        display: flex;
         color:$white;
         max-width: 20px;
-        text-align: center;
+        flex-wrap: wrap;
+        align-self: center
     }
     .details{
+        flex-basis: 35%;
         display: flex;
         justify-content: space-between;
         color: $grey;
@@ -87,12 +89,15 @@
         margin-top: -6px;
     }
     .small-detail{
+        display: flex;
+        flex-wrap: wrap;
+        // flex-basis: 20%;
         font-size: 0.9rem;
         line-height: 0.7;
         margin-top: -9px;
 
     }
-
+ 
     .image-small{
         width: 100px;
         height: 75px;
@@ -115,7 +120,7 @@
         background-image:url("../images/event-ex-5.jpg");
     }
     .img6{
-        background-image:url("../images/event-ex-4.jpg");
+        background-image:url("../images/event-ex-2.jpg");
     }
     .img7{
         background-image:url("../images/event-ex-3.jpg");
@@ -123,14 +128,26 @@
     .img8{
         background-image:url("../images/event-ex-1.jpg");
     }
+
+
   
     .time{
-        padding-top: 27px;
+        flex-basis: 15%;
+        display: flex;
+        place-items: center;
         color: $grey;
+        i{
+            padding-right: 12px;
+        }
     }
     .place{
-        padding-top: 27px;
+        flex-basis: 15%;
+        display: flex;
+        place-items: center;
         color: $grey;
+        i{
+            padding-right: 12px;
+        }
     }
     .tags{
         color: $pink1;
@@ -149,18 +166,22 @@
         padding-top: 27px;
         margin: 16px 0 0 0;
         padding: 12px;
+        a{
+            text-decoration: none;
+            color: black;
+        }
     }
     .grey-line{
-        border-top: 2px solid $grey;
+        border-top: 2px solid rgba(255,255,255,0.2);
         margin: auto;
-        width: 100%;
+        width: 99%;
         opacity: 1;
         margin-top: 34px;
     }
    .viewall{
-        margin-top: 9% !important;
-        margin-bottom: 7% !important;
-        width: 180px !important;
+    margin-top: 9% !important;
+    margin-bottom: 7% !important;
+    width: 180px !important;
    }
     .choose-page{
         ul{
@@ -180,4 +201,61 @@
             }
         }
    }
+}
+
+@media (max-width:500px) {
+    #p2s1{
+        .headline{
+            .pink-line{
+                width: 357px;
+            }
+        }
+    }
+
+    #p2s2{
+        .party-info{
+            display: flex;
+            flex-wrap: wrap;
+            padding: 0;
+            .details{
+                .image-small{
+                    width: 117px;
+                    height: 51px;
+                    align-self: center;
+                    margin-right: 4px;
+                }
+                .details-info{
+                    align-self: center;
+                    .pink{
+                        font-size: 1rem;
+                    }
+                    .small-detail{
+                        font-size: 0.8rem;
+                        padding: 0;
+                        line-height: 11px;
+                        p{
+                            margin-bottom: 0;
+                        }
+                    }
+                }
+            }
+        }
+        .headline-text{
+            h1{
+                font-size:2.4rem;
+            }
+            .listing{
+                font-size: 5rem;
+                margin-top: -16.5%;
+
+            }
+            .yellow-line{
+                border-top: 19px solid #F9FF2F;
+                margin: auto;
+                width: 284px;
+                opacity: 1;
+                margin-top: -27px;            
+            }
+        }
+    }
 }
