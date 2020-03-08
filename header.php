@@ -19,16 +19,16 @@
                 <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
                   <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
                     <li class="nav-item pr-4">
-                      <a class="nav-link" href="page2.php">EVENT <span class="sr-only">(current)</span></a>
+                      <a class="nav-link" href="event.php">EVENT <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item pr-4">
-                      <a class="nav-link" href="page3.php">ARTIST</a>
+                      <a class="nav-link" href="artist.php">ARTIST</a>
                     </li>
                     <li class="nav-item pr-4">
-                        <a class="nav-link" href="#">SERVICE <span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="service.php">SERVICE <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item pr-4">
-                        <a class="nav-link" href="page5.php">ABOUT</a>
+                        <a class="nav-link" href="about.php">ABOUT</a>
                     </li>                  
                   </ul>
                   <form class="form-inline my-2 my-lg-0">
@@ -40,7 +40,8 @@
                             <a class="nav-link thai" href="#">ไทย</a>
                         </li>                    
                     </ul>
-                    <button class="btn button-yellow my-2 my-sm-0" type="submit">SUBMISSION</button>
                   </form>
+                  <button class="btn button-yellow my-2 my-sm-0" type="submit">SUBMISSION</button>
+
                 </div>
         </nav>

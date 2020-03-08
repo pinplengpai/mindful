@@ -54,6 +54,9 @@
     color: #07041F;
     position: relative; }
 
+@media only screen and (max-width: 768px) {
+  #navbar-main .button-yellow {
+    margin: 0 0 0 -11px; } }
 .button-yellow {
   margin-top: 54px;
   margin-left: 20px;

@@ -36,7 +36,7 @@
             </div>
             <div class="row">
                 <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box p-0">
-                    <a href="page4.php">
+                    <a href="artist-detail.php">
                         <div class="box-bg p1" style='background-image:url("images/artist-ex-1.jpg")'></div>
                         <div class="box-hover">
                             <lottie-player
