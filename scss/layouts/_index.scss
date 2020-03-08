@@ -21,7 +21,7 @@ input[placeholder]::-moz-input-placeholder {
     .bg-pink{
         background-image:url("../images/banner-sec.jpg");
         background-color: $grey;
-        width: 100%;
+        width: 99%;
         height: 480px;
         padding:76px 15px;
     }
@@ -79,7 +79,7 @@ input[placeholder]::-moz-input-placeholder {
         background-image:url("../images/float-left-artist.png");
         background-repeat: no-repeat;
         position: absolute;
-        width: 100%;
+        width: 99%;
         height: 300px;
         z-index: 2;
         top: -105px;
@@ -109,7 +109,7 @@ input[placeholder]::-moz-input-placeholder {
         height: 321px;
 
         .box-bg{
-            width: 100%;
+            width: 99%;
             height: 100%;
             background-size: cover;
             position: relative;
@@ -183,7 +183,7 @@ input[placeholder]::-moz-input-placeholder {
     .subhead-text{
         display: flex;
         justify-content: space-between;
-        width: 100%;
+        width: 99%;
         
     }
     .month-year{
@@ -209,10 +209,10 @@ input[placeholder]::-moz-input-placeholder {
     .date{
         flex: 5%;
         display: flex;
-        place-items: center;
         color:$white;
         max-width: 20px;
         flex-wrap: wrap;
+        align-self: center
     }
     .details{
         flex-basis: 35%;
@@ -296,7 +296,7 @@ input[placeholder]::-moz-input-placeholder {
     .grey-line{
         border-top: 2px solid rgba(255,255,255,0.2);
         margin: auto;
-        width: 100%;
+        width: 99%;
         opacity: 1;
         margin-top: 34px;
     }
@@ -307,80 +307,80 @@ input[placeholder]::-moz-input-placeholder {
    }
 }
 
-// @media (max-width: 780px) {
-//     #section2{ 
-//         .artist-box{
-//             height: 320px;
-//         }
-//     }
-//     #section3{
-//         .date{
-//             margin-top: 15px;
-//             color: #fff;
-//             max-width: 8%;
-//             text-align: center;
-//         }
-//         .image-small{
-//             width: 100px;
-//             height: 64px;
-//             background-size: cover;
-//             margin-right: 15px;
-//             margin-top: 16px;
-//         }
-//         .pink{
-//             font-size: 1rem;
-//             margin-top: 16%;
-//         }
-//         .small-detail{
-//             line-height: 1.2;
-//             margin-top: -9px;
-//             p{
-//                 font-size:0.5rem;
-//                 margin: 0;
-//             }
-//         }
-//         .time{
-//             font-size: 0.7rem;
-//             width: 9%;
-//         }
-//         .place{
-//             font-size: 0.7rem;
-//             width: 10%;
+@media (max-width: 780px) {
+    #section2{
+        .artist-box{
+            height: 200px;
+        }
+    }
+}
 
-//         }
-//         .tags{
-//             font-size: 0.7rem;
-//             border: 1px solid #F732B5;
-//             width: 72px;
-//             height: 32px;
-//             text-align: center;
-//             margin-top: 28px;
-//             border-radius: 2px;
-//             opacity: 1;
-//         }
-//         .details-button{
-//             padding-top: 27px;
-//             margin: 23px 0 0 0;
-//             padding: 12px;
-//         }
-//         .button-yellow{
-//             width: 122px;
-//         }
-//     }
-// }
-    
-// @media (max-width: 375px) {
-//     #section1{
-//         .headline{
-//             .pink-line{
-//                 width: 100%;
-//             }
-//         }
-//     }
-//     #section3 {
-//         .date, .image-small, .details-info, .details-button{
-//             width: 33.33%;
-//         }
-//     }
+@media (max-width:500px) {
+    #section1{
+        .headline{
+            .pink-line{
+                width: 357px;
+            }
+        }
+    }
+    #section2{
+        .artist-box{
+            .box-bg{
+                width: 61%;
+                height: 100%;
+                margin: auto;
+            
+            }
+        }
+        .button-yellow{
+            margin-left: 0;
+        }
+    }
 
-// }
+    #section3{
+        .party-info{
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .headline-text{
+            h1{
+                font-size:2.4rem;
+            }
+            .provider{
+                font-size: 5rem;
+                margin-top: -16.5%;
+
+            }
+            .yellow-line{
+                border-top: 19px solid #F9FF2F;
+                margin: auto;
+                width: 333px;
+                opacity: 1;
+                margin-top: -27px;            
+            }
+        }
+        .details{
+            .image-small{
+                width: 99px;
+                height: 38px;
+                align-self: center;
+                margin-right: 8px;
+            }
+            .details-info{
+                align-self: center;
+                .pink{
+                    font-size: 1rem;
+                }
+                .small-detail{
+                    font-size: 0.8rem;
+                    padding: 0;
+                    line-height: 11px;
+                    p{
+                        margin-bottom: 0;
+                    }
+                }
+            }
+        }
+     
+    }
+}

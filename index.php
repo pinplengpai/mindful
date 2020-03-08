@@ -233,7 +233,7 @@
             </div>
             <div class="grey-line"></div>
         <!-- 4 -->
-        <div class="col-12 party-info">
+        <div class="col-12 party-info ">
                 <div class="date">
                     <b style="font-size:1.5rem">26</b> Sat
                 </div>

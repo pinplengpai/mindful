@@ -96,12 +96,23 @@
   #section5 .button {
     background-color: #F732B5;
     color: #fff;
+    border-radius: 50px;
     padding: 0 24px;
     margin: 0px 3px 0px 28px; }
     #section5 .button p {
       padding-top: 14px;
       font-size: 1rem; }
 
+@media only screen and (max-width: 768px) {
+  #section5 .sub-info p {
+    font-size: 0.9rem; }
+  #section5 .button {
+    margin: 0px 3px 0px 3px; } }
+@media (max-width: 500px) {
+  #section5 .box {
+    padding-bottom: 0; }
+  #section5 .sub-box {
+    padding-bottom: 5%; } }
 body {
   font-family: "Poppins", sans-serif !important; }
 
@@ -122,7 +133,7 @@ input[placeholder]::-moz-input-placeholder {
   #section1 .bg-pink {
     background-image: url("../images/banner-sec.jpg");
     background-color: #CBCBCB;
-    width: 100%;
+    width: 99%;
     height: 480px;
     padding: 76px 15px; }
   #section1 .headline {
@@ -167,7 +178,7 @@ input[placeholder]::-moz-input-placeholder {
     background-image: url("../images/float-left-artist.png");
     background-repeat: no-repeat;
     position: absolute;
-    width: 100%;
+    width: 99%;
     height: 300px;
     z-index: 2;
     top: -105px; }
@@ -192,7 +203,7 @@ input[placeholder]::-moz-input-placeholder {
   #section2 .artist-box {
     height: 321px; }
     #section2 .artist-box .box-bg {
-      width: 100%;
+      width: 99%;
       height: 100%;
       background-size: cover;
       position: relative; }
@@ -242,7 +253,7 @@ input[placeholder]::-moz-input-placeholder {
   #section3 .subhead-text {
     display: flex;
     justify-content: space-between;
-    width: 100%; }
+    width: 99%; }
   #section3 .month-year {
     color: #F9FF2F;
     font-size: 1.8rem; }
@@ -262,10 +273,10 @@ input[placeholder]::-moz-input-placeholder {
   #section3 .date {
     flex: 5%;
     display: flex;
-    place-items: center;
     color: #fff;
     max-width: 20px;
-    flex-wrap: wrap; }
+    flex-wrap: wrap;
+    align-self: center; }
   #section3 .details {
     flex-basis: 35%;
     display: flex;
@@ -328,7 +339,7 @@ input[placeholder]::-moz-input-placeholder {
   #section3 .grey-line {
     border-top: 2px solid rgba(255, 255, 255, 0.2);
     margin: auto;
-    width: 100%;
+    width: 99%;
     opacity: 1;
     margin-top: 34px; }
   #section3 .viewall {
@@ -336,13 +347,57 @@ input[placeholder]::-moz-input-placeholder {
     margin-bottom: 7% !important;
     width: 180px !important; }
 
+@media (max-width: 780px) {
+  #section2 .artist-box {
+    height: 200px; } }
+@media (max-width: 500px) {
+  #section1 .headline .pink-line {
+    width: 357px; }
+
+  #section2 .artist-box .box-bg {
+    width: 61%;
+    height: 100%;
+    margin: auto; }
+  #section2 .button-yellow {
+    margin-left: 0; }
+
+  #section3 .party-info {
+    display: flex;
+    flex-wrap: wrap; }
+  #section3 .headline-text h1 {
+    font-size: 2.4rem; }
+  #section3 .headline-text .provider {
+    font-size: 5rem;
+    margin-top: -16.5%; }
+  #section3 .headline-text .yellow-line {
+    border-top: 19px solid #F9FF2F;
+    margin: auto;
+    width: 333px;
+    opacity: 1;
+    margin-top: -27px; }
+  #section3 .details .image-small {
+    width: 99px;
+    height: 38px;
+    align-self: center;
+    margin-right: 8px; }
+  #section3 .details .details-info {
+    align-self: center; }
+    #section3 .details .details-info .pink {
+      font-size: 1rem; }
+    #section3 .details .details-info .small-detail {
+      font-size: 0.8rem;
+      padding: 0;
+      line-height: 11px; }
+      #section3 .details .details-info .small-detail p {
+        margin-bottom: 0; } }
 #p2s1 {
   position: relative;
   background-image: url(../images/bg-event-title.jpg);
   width: 100%;
   overflow: hidden;
   height: 380px;
-  background-repeat: no-repeat; }
+  background-repeat: no-repeat;
+  background-position: center center; }
   #p2s1 .bg-yellow {
     background-color: #CBCBCB; }
   #p2s1 p {
