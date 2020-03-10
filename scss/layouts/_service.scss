@@ -1,0 +1,29 @@
+#service1{
+    background-color: grey;
+    height: 380px;
+}
+
+#service2{
+    padding: 4%;
+    .video-box{
+        width: 529px;
+        height: 558px;
+        background-color: grey;
+    }
+}
+
+#service3{
+    background-color: $pink1;
+    padding: 5% 0;
+    .info-box{
+        height: 340px;  
+        background-color: white;
+        padding: 3px;
+        .logo  {
+            background-color: grey;
+            width: 87px;
+            height: 73px;
+            margin-top: 16px;
+        }
+    }
+}

@@ -133,7 +133,7 @@ input[placeholder]::-moz-input-placeholder {
   #section1 .bg-pink {
     background-image: url("../images/banner-sec.jpg");
     background-color: #CBCBCB;
-    width: 99%;
+    width: 100%;
     height: 480px;
     padding: 76px 15px; }
   #section1 .headline {
@@ -178,7 +178,7 @@ input[placeholder]::-moz-input-placeholder {
     background-image: url("../images/float-left-artist.png");
     background-repeat: no-repeat;
     position: absolute;
-    width: 99%;
+    width: 100%;
     height: 300px;
     z-index: 2;
     top: -105px; }
@@ -203,7 +203,7 @@ input[placeholder]::-moz-input-placeholder {
   #section2 .artist-box {
     height: 321px; }
     #section2 .artist-box .box-bg {
-      width: 99%;
+      width: 100%;
       height: 100%;
       background-size: cover;
       position: relative; }
@@ -253,7 +253,7 @@ input[placeholder]::-moz-input-placeholder {
   #section3 .subhead-text {
     display: flex;
     justify-content: space-between;
-    width: 99%; }
+    width: 100%; }
   #section3 .month-year {
     color: #F9FF2F;
     font-size: 1.8rem; }
@@ -291,7 +291,8 @@ input[placeholder]::-moz-input-placeholder {
     flex-wrap: wrap;
     font-size: 0.9rem;
     line-height: 0.7;
-    margin-top: -9px; }
+    margin-top: -9px;
+    line-height: 20px; }
   #section3 .image-small {
     width: 100px;
     height: 75px;
@@ -339,7 +340,7 @@ input[placeholder]::-moz-input-placeholder {
   #section3 .grey-line {
     border-top: 2px solid rgba(255, 255, 255, 0.2);
     margin: auto;
-    width: 99%;
+    width: 100%;
     opacity: 1;
     margin-top: 34px; }
   #section3 .viewall {
@@ -1090,5 +1091,120 @@ input[placeholder]::-moz-input-placeholder {
     width: 57%; }
   #p6s5 .info-box {
     margin-bottom: 10px; } }
+#service1 {
+  background-color: grey;
+  height: 380px; }
+
+#service2 {
+  padding: 4%; }
+  #service2 .video-box {
+    width: 529px;
+    height: 558px;
+    background-color: grey; }
+
+#service3 {
+  background-color: #F732B5;
+  padding: 5% 0; }
+  #service3 .info-box {
+    height: 340px;
+    background-color: white;
+    padding: 3px; }
+    #service3 .info-box .logo {
+      background-color: grey;
+      width: 87px;
+      height: 73px;
+      margin-top: 16px; }
+
+#signup {
+  background-color: #F9FF2F; }
+  #signup .uploadpic {
+    background-color: grey;
+    width: 350px;
+    height: 350px;
+    margin: auto;
+    position: relative; }
+    #signup .uploadpic label {
+      display: block;
+      max-width: 200px;
+      margin: 0 auto 15px;
+      text-align: center;
+      word-wrap: break-word;
+      color: #1a4756; }
+    #signup .uploadpic .hidden, #signup .uploadpic #uploadImg:not(.hidden) + label {
+      display: none; }
+    #signup .uploadpic #file {
+      display: none;
+      margin: 0 auto; }
+    #signup .uploadpic #upload {
+      text-align: center;
+      width: 350px;
+      height: 350px;
+      display: block;
+      padding: 10px 25px;
+      border: 0;
+      margin: 0 auto;
+      font-size: 1rem;
+      letter-spacing: 0.05em;
+      cursor: pointer;
+      background: #fff;
+      color: #fff;
+      outline: none;
+      transition: .3s ease-in-out; }
+      #signup .uploadpic #upload i {
+        font-size: 6rem;
+        color: #E8E8E8; }
+      #signup .uploadpic #upload:active {
+        background: #13D4C8;
+        transition: .1s ease-in-out; }
+    #signup .uploadpic img {
+      display: block;
+      height: 350px;
+      width: 350px; }
+  #signup .upload-wrapper {
+    padding: 50px 0; }
+    #signup .upload-wrapper p {
+      margin-bottom: 0;
+      color: #07041F; }
+  #signup .red {
+    color: red; }
+  #signup .closed-button {
+    cursor: pointer;
+    position: relative;
+    width: 100%;
+    display: block; }
+    #signup .closed-button .fa, #signup .closed-button .fas {
+      background-color: white;
+      border-radius: 50%;
+      color: #F732B5;
+      font-family: 'Font Awesome 5 Free';
+      font-weight: 900;
+      font-size: 25px;
+      position: absolute;
+      top: -13px;
+      right: -12px; }
+  #signup .form-wrapper span {
+    height: 23px; }
+  #signup .form-wrapper .col-12:nth-child(odd) {
+    padding-right: 25px; }
+  #signup .form-wrapper .col-12:nth-child(even) {
+    padding-left: 25px; }
+  #signup .form-check-wrap {
+    color: black; }
+  #signup .form-check-inline .form-check-input {
+    position: static;
+    margin-top: -3px;
+    margin-right: .3125rem;
+    margin-left: 0; }
+  #signup .message-box .form-control {
+    height: calc(9.5em + .75rem + 2px);
+    align-self: start; }
+  #signup .button-yellow {
+    background-color: #F732B5;
+    width: 184px;
+    color: white;
+    margin: auto; }
+  #signup .check-box {
+    width: 100%;
+    margin-bottom: 48px; }
 
 /*# sourceMappingURL=style.css.map */
