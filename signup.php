@@ -44,6 +44,7 @@
                         <option>5</option>
                         </select>
                     </div>
+                    <div class="notify-text">Please Select Value</div>
                 </div>
 
                 <div class="col-12 col-md-6 col-lg-6">
@@ -70,6 +71,7 @@
                         <option>5</option>
                         </select>
                     </div>
+                    <div class="notify-text">Please Select Value</div>
                 </div>
             
                 <div class="col-12 col-md-6 col-lg-6">
@@ -95,6 +97,7 @@
                     <div class="input-group my-3">
                         <input type="text" class="form-control" placeholder="Link with http(s)://" aria-label="Username" aria-describedby="basic-addon1">
                     </div>
+                    <div class="notify-text">Please Fill Value</div>
                 </div>
 
 
@@ -103,6 +106,7 @@
                     <div class="input-group my-3">
                         <input type="text" class="form-control" placeholder="Link with http(s)://" aria-label="Username" aria-describedby="basic-addon1">
                     </div>
+                    <div class="notify-text">Please Fill Value</div>
                 </div>
             </div>
 
@@ -151,6 +155,7 @@
                         <input type="checkbox" class="form-check-input" id="exampleCheck1">
                         <label class="form-check-label" for="exampleCheck1">I’ve read and accepted the terms and conditions</label>
                     </div>
+                    <div class="notify-text">Please Check to Accept Conditions</div>
                 </div>
                 <button type="submit" class="button-yellow">SEND SUBMISSION</button>
             </div>

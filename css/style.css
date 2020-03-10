@@ -1205,6 +1205,17 @@ input[placeholder]::-moz-input-placeholder {
     margin: auto; }
   #signup .check-box {
     width: 100%;
-    margin-bottom: 48px; }
+    margin-bottom: 16px; }
+  #signup .notify-text {
+    display: none;
+    margin: -8px 0 14px;
+    color: red;
+    font-size: 0.8rem; }
+
+@media (max-width: 500px) {
+  #signup .form-wrapper .col-12:nth-child(odd) {
+    padding-right: 15px; }
+  #signup .form-wrapper .col-12:nth-child(even) {
+    padding-left: 15px; } }
 
 /*# sourceMappingURL=style.css.map */
