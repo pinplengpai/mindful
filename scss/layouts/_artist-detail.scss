@@ -9,24 +9,13 @@
         padding: 0 13%;
         margin-bottom: 5%;
     }
-    .headline{
+    .headline-text{
         h2{
             width: 72%;
             line-height: 47px;
         }
     }
-    .yellow-line1{
-        border-top: 24px solid #F9FF2F;
-        width: 531px;
-        opacity: 1;
-        margin-top: -22px;
-    }
-    .yellow-line2{
-        border-top: 24px solid #F9FF2F;
-        width: 263px;
-        opacity: 1;
-        margin-top: -33px;
-    }
+    
     .passage-text{
         margin-top: 5%;
         p{
@@ -103,9 +92,11 @@
 
 @media (max-width: 500px){
     #p4s2{
-        .headline{
+        .headline-text{
             h2{
                 width: 100%;
+                line-height: 37px;
+                font-size: 1.5rem;
             }
         }
         .yellow-line1{
@@ -119,6 +110,19 @@
     #p4s3{
         .artist-box{
             height: 278px;            
+        }
+    }
+}
+
+
+@media (max-width: 400px){
+    #p4s2{
+        .headline-text{
+            h2{
+                width: 100%;
+                line-height: 37px;
+                font-size: 1.2rem;
+            }
         }
     }
 }

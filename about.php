@@ -34,21 +34,18 @@
         <div class="row">
             <div class="col-12 col-sm-12 col-md-6 col-lg-6 d-flex justify-content-between">
                 <div class="info-box">
-                    <div class="mindful-text">
-                        <h2><b>Mindful Collective </b></h2>
-                        <div class="yellow-line1"></div>
+                    <div class="mindful-text headline-text">
+                        <h2><b><span>Mindful Collective </span></b></h2>
                         <p>Etiam convallis, felis quis dapibus dictum, libero mauris luctus nunc, 
                             fringilla purus ligula non justo. Non fringilla purus ligula justo.</p>
                     </div>
                     <div class="address-contact-wrapper d-flex">
-                        <div class="address">
-                            <h2><b>Address</b></h2>
-                            <div class="yellow-line2"></div>
+                        <div class="address headline-text">
+                            <h2><b><span>Address</span></b></h2>
                             <p>198 West 21th Street Barselona 20020</p>
                         </div>
-                        <div class="contact">
-                            <h2><b>Contact</b></h2>
-                            <div class="yellow-line3"></div>
+                        <div class="contact headline-text">
+                            <h2><b><span>Contact</span></b></h2>
                             <p>email@domain.com <br>Phone: +88 (0) 101 0000</p>
                         </div>
                     </div>

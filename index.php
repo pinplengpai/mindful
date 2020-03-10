@@ -8,11 +8,9 @@
                     <div class="headline-text">
                         <div class="h2-box">
                             <h2><b>show off your skill</b></h2>
-                        <div class="yellow-line"></div>
                     </div>
                     <div class="h1-box">
                         <h1><b>ARTIST SUBMISSION</b></h1>
-                        <div class="pink-line"></div>
                     </div>
                     <button class=" button-yellow">SIGN UP</button> 
                 </div>
@@ -30,8 +28,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 title-section2">
-                    <h2>Our Artists</h2>
-                    <div class="yellow-line"></div>
+                    <h2><span>Our Artists</span></h2>
                 </div>
             </div>
             <div class="row">
@@ -127,7 +124,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12 headline-text">
-                <h1>Upcoming Events</h1>
+                <h1><span>Upcoming Events</span></h1>
                 <div class="yellow-line"></div>
                 <h2 class="provider"> Provider </h2>
                 <div class="col-12 subhead-text">

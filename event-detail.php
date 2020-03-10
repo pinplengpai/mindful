@@ -83,9 +83,8 @@
 <section id="p6s5">
     <div class="contianer box">
         <div class="row">
-            <div class="col-12 text">
-                <h2>More Events</h2>
-                <div class="yellow-line"></div>
+            <div class="col-12 text headline-text">
+                <h2><span>More Events</span></h2>
             </div>
             <div class="row info-box-row">
                 <!-- 1 -->

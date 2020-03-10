@@ -15,8 +15,7 @@
 <div class="container">
         <div class="row">
             <div class="col-12 headline-text">
-                <h1>Events Listing</h1>
-                <div class="yellow-line"></div>
+                <h1><span>Events Listing<span></h1>
                 <h2 class="listing"> Listing </h2>
                 </div>
                 <div class="col-12 subhead-text">
@@ -282,7 +281,7 @@
         <!-- choose pages -->
             <div class="col-12">
                 <div class="choose-page">
-                    <ul class="d-flex">
+                    <ul class="d-flex justify-content-center">
                         <li><i class="fas fa-arrow-left" style="color:#5A5865"></i></li>
                         <li class="active">1</li>
                         <li>2</li>

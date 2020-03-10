@@ -14,8 +14,8 @@
 <section id="p4s2">
     <div class="container box">
         <div class="row">
-            <div class="col-12 headline">
-                <h2>QUANTIC- YOU USED TO LOVE ME<div class="yellow-line1"></div> (FEAT. DENITIA)</h2>
+            <div class="col-12 headline-text">
+                <h2><span>QUANTIC- YOU USED TO</span><span> LOVE ME</span><span>(FEAT. DENITIA)</span></h2>
                 <div class="yellow-line2"></div>
             </div>
             <div class="col-12 passage-text">

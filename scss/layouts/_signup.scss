@@ -1,5 +1,10 @@
 #signup{
     background-color: $yellow;
+    background-image: url("../images/bg-signup-sec.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 44%;
+
     .uploadpic{
         background-color: grey;
         width: 350px;

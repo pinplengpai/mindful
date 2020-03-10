@@ -17,9 +17,8 @@
     <div class="container-fluid">
         <div class="element-triangle"></div>
         <div class="element-square"></div>
-        <div class="header">
-            <h2 class="artist-listing-text">Artists Listing</h2>
-            <div class="yellow-line"></div>
+        <div class="header headline-text">
+            <h2 class="artist-listing-text"><span>Artists Listing<span></h2>
         </div>
         <h2 class="listing text-center">Listing</h2>
 
@@ -216,7 +215,7 @@
         </div>
         <div class="col-12">
             <div class="choose-page">
-                <ul class="d-flex">
+                <ul class="d-flex justify-content-center">
                     <li><i class="fas fa-arrow-left" style="color:#5A5865"></i></li>
                     <li class="active">1</li>
                     <li>2</li>

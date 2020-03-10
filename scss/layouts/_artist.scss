@@ -38,9 +38,11 @@
     .listing{
         font-family: "Gloss And Bloom", sans-serif !important;
         font-size: 7rem;
-        margin-top: -16.5%;
+        margin-top: -6.5%;
         color: #E8E8EA;
         z-index: -2;
+        margin-bottom: 74px;
+
     }
     .type-song{
         margin-bottom: 49px;
@@ -127,15 +129,7 @@
         position: relative;
         z-index:2;
     }
-    .yellow-line{
-        border-top: 24px solid #F9FF2F;
-        margin: auto;
-        width: 320px;
-        opacity: 1;
-        margin-top: -25px;
-        margin-bottom: 7%;
-        position: relative;
-    }
+  
     .find-artist{
         width: 32%;
         margin-left: 47px;

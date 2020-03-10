@@ -17,9 +17,9 @@
                 </div>
                 <div class="col-12 col-sm-6">
                     <div class="service-wrapper">
-                        <div class="service-info">
+                        <div class="service-info headline-text">
                             <h2>
-                                Event to do anything
+                                <span>Event to do anything</span>
                             </h2>
                             <p>
                                 Does any industry face a more complex audience journey and marketing sales process than B2B 
@@ -44,9 +44,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <h2>
-                        Our service
-                    </h2>
+                    <div class="headline-text">
+                        <h2>
+                            <span>Our service</span>
+                        </h2>
+                    </div>
                 </div>
             </div>
 
