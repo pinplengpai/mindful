@@ -1091,29 +1091,131 @@ input[placeholder]::-moz-input-placeholder {
     width: 57%; }
   #p6s5 .info-box {
     margin-bottom: 10px; } }
+body {
+  overflow-x: hidden; }
+
 #service1 {
   background-color: grey;
-  height: 380px; }
+  height: 380px;
+  background-image: url("../images/bg-service-title.png");
+  background-position: center center;
+  background-repeat: no-repeat; }
 
 #service2 {
-  padding: 4%; }
+  padding: 4%;
+  position: relative; }
+  #service2 .element-triangle {
+    position: absolute;
+    width: 53px;
+    height: 65px;
+    background-image: url(../images/triangle-element.png);
+    background-repeat: no-repeat;
+    bottom: 4%; }
+  #service2 .element-square-blue {
+    position: absolute;
+    width: 156px;
+    height: 225px;
+    background-image: url(../images/float-right-artist.png);
+    background-repeat: no-repeat;
+    top: -13%;
+    left: 6%; }
+  #service2 .element-square-dark-blue {
+    position: absolute;
+    width: 319px;
+    height: 322px;
+    background-image: url(../images/dot-element.png);
+    background-repeat: no-repeat;
+    top: -13%;
+    right: -10%; }
+  #service2 .element-line {
+    position: absolute;
+    width: 111px;
+    height: 139px;
+    background-image: url(../images/wavy-line.png);
+    background-repeat: no-repeat;
+    bottom: 3%;
+    right: 3%; }
+  #service2 .element-triangle-yellow {
+    position: absolute;
+    bottom: 5%;
+    right: 48.5%;
+    width: 0;
+    height: 0;
+    border-top: 91px solid transparent;
+    border-bottom: 167px solid yellow;
+    border-left: 146px solid transparent;
+    border-right: 104px solid yellow; }
   #service2 .video-box {
     width: 529px;
     height: 558px;
-    background-color: grey; }
+    background-color: white;
+    background-image: url("../images/service-vid-img.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover; }
+    #service2 .video-box .icon-wrapper {
+      width: 100%;
+      margin-top: 37%;
+      text-align: center; }
+    #service2 .video-box i {
+      font-size: 6rem;
+      width: 18%;
+      color: white;
+      background-color: #F732B5;
+      border-radius: 50px; }
+  #service2 .service-wrapper {
+    margin-top: 15%;
+    margin-left: 16%;
+    width: 100%; }
+  #service2 .service-info h2 {
+    font-size: 3rem;
+    width: 50%; }
+  #service2 .service-info p {
+    width: 85%; }
+  #service2 .phone-wrapper {
+    width: 100%; }
+    #service2 .phone-wrapper .phone-icon {
+      width: 89px;
+      height: 87px;
+      background-image: url("../images/phone-icon.png");
+      background-repeat: no-repeat;
+      background-position: center center; }
+    #service2 .phone-wrapper .phone-info {
+      color: #F732B5;
+      width: 50%;
+      margin-top: 3%;
+      margin-left: 6%; }
+      #service2 .phone-wrapper .phone-info .number {
+        font-size: 1.7rem; }
 
 #service3 {
+  background-image: url(../images/bg-service-sec.png);
+  background-repeat: no-repeat;
+  background-position: 0% 43%;
   background-color: #F732B5;
   padding: 5% 0; }
+  #service3 h2 {
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 9%; }
   #service3 .info-box {
-    height: 340px;
+    height: 386px;
     background-color: white;
     padding: 3px; }
     #service3 .info-box .logo {
-      background-color: grey;
-      width: 87px;
-      height: 73px;
-      margin-top: 16px; }
+      background-repeat: no-repeat;
+      width: 132px;
+      height: 124px;
+      margin: 13% auto 4% auto; }
+    #service3 .info-box .icon1 {
+      background-image: url("../images/event-icon.png"); }
+    #service3 .info-box .icon2 {
+      background-image: url("../images/market-icon.png"); }
+    #service3 .info-box .icon3 {
+      background-image: url("../images/concert-icon.png"); }
+    #service3 .info-box p {
+      margin: 0 4%;
+      text-align: center; }
 
 #signup {
   background-color: #F9FF2F; }
