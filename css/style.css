@@ -265,6 +265,15 @@ input[placeholder]::-moz-input-placeholder {
       transform: translateX(-50%);
       width: 70%;
       height: 100%; }
+      #section2 .artist-box .box-hover .box-hover-info {
+        margin-left: -6%;
+        margin-top: -20%;
+        line-height: 17px; }
+        #section2 .artist-box .box-hover .box-hover-info div:first-child {
+          font-weight: 600;
+          font-size: 1.3rem; }
+        #section2 .artist-box .box-hover .box-hover-info div {
+          color: #fff; }
     #section2 .artist-box a:hover .box-hover {
       display: block; }
   #section2 .artist-box-margin {
@@ -484,6 +493,12 @@ input[placeholder]::-moz-input-placeholder {
     font-size: 2rem;
     text-align: center;
     padding-top: 16%; }
+  #p2s2 .tags-bar {
+    color: white;
+    width: 33%;
+    align-self: center; }
+    #p2s2 .tags-bar li {
+      list-style: none; }
   #p2s2 .subhead-text {
     padding-top: 7%; }
   #p2s2 .yellow-line {
@@ -739,6 +754,15 @@ input[placeholder]::-moz-input-placeholder {
       transform: translateX(-50%);
       width: 70%;
       height: 100%; }
+      #p3s2 .artist-box .box-hover .box-hover-info {
+        margin-left: -6%;
+        margin-top: -20%;
+        line-height: 17px; }
+        #p3s2 .artist-box .box-hover .box-hover-info div:first-child {
+          font-weight: 600;
+          font-size: 1.3rem; }
+        #p3s2 .artist-box .box-hover .box-hover-info div {
+          color: #fff; }
     #p3s2 .artist-box a:hover .box-hover {
       display: block; }
   #p3s2 .choose-page ul {

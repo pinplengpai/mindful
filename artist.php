@@ -50,6 +50,7 @@
                     <li>Folk</li>
                 </ul>
             </div>
+          
         </div>
         <div class="row">
             <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box p-0">
@@ -59,6 +60,10 @@
                         <lottie-player
                             src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
                         </lottie-player>
+                        <div class="box-hover-info">
+                            <div>Stephan</div>
+                            <div>Pop & Rock</div>  
+                        </div>
                     </div>
                 </a>
             </div>
@@ -69,6 +74,10 @@
                         <lottie-player
                             src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
                         </lottie-player>
+                        <div class="box-hover-info">
+                            <div>Stephan</div>
+                            <div>Pop & Rock</div>  
+                        </div>
                     </div>
                 </a>
                 </div>
@@ -79,6 +88,10 @@
                         <lottie-player
                             src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
                         </lottie-player>
+                        <div class="box-hover-info">
+                            <div>Stephan</div>
+                            <div>Pop & Rock</div>  
+                        </div>
                     </div>
                 </a>
             </div>
@@ -89,6 +102,10 @@
                     <lottie-player
                         src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
                     </lottie-player>
+                    <div class="box-hover-info">
+                        <div>Stephan</div>
+                        <div>Pop & Rock</div>  
+                    </div>
                 </div>
                 </a>
             </div>
@@ -96,9 +113,13 @@
                 <a href="#">
                     <div class="box-bg p4" style='background-image:url("images/artist-ex-5.jpg")'></div>
                     <div class="box-hover">
-                    <lottie-player
-                        src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
-                    </lottie-player>
+                        <lottie-player
+                            src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
+                        </lottie-player>
+                        <div class="box-hover-info">
+                            <div>Stephan</div>
+                            <div>Pop & Rock</div>  
+                        </div>
                     </div>
                 </a>
             </div>
@@ -106,9 +127,13 @@
                 <a href="#">
                     <div class="box-bg p5" style='background-image:url("images/artist-ex-6.jpg")'></div>
                     <div class="box-hover">
-                    <lottie-player
-                        src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
-                    </lottie-player>
+                        <lottie-player
+                            src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
+                        </lottie-player>
+                        <div class="box-hover-info">
+                            <div>Stephan</div>
+                            <div>Pop & Rock</div>  
+                        </div>
                     </div>
                 </a>
             </div>
@@ -116,9 +141,13 @@
                 <a href="">
                     <div class="box-bg p6" style='background-image:url("images/artist-ex-7.jpg")'></div>
                     <div class="box-hover">
-                    <lottie-player
-                        src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
-                    </lottie-player>
+                        <lottie-player
+                            src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
+                        </lottie-player>
+                        <div class="box-hover-info">
+                            <div>Stephan</div>
+                            <div>Pop & Rock</div>  
+                        </div>
                     </div>
                 </a>
             </div>
@@ -129,6 +158,10 @@
                     <lottie-player
                         src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
                     </lottie-player>
+                    <div class="box-hover-info">
+                        <div>Stephan</div>
+                        <div>Pop & Rock</div>  
+                    </div>
                 </div>
                 </a>
             </div>
@@ -139,6 +172,10 @@
                     <lottie-player
                         src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
                     </lottie-player>
+                    <div class="box-hover-info">
+                        <div>Stephan</div>
+                        <div>Pop & Rock</div>  
+                    </div>
                 </div>
                 </a>
             </div>  
@@ -149,6 +186,10 @@
                         <lottie-player
                             src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
                         </lottie-player>
+                        <div class="box-hover-info">
+                            <div>Stephan</div>
+                            <div>Pop & Rock</div>  
+                        </div>
                     </div>
                 </a>
                 </div>
@@ -159,26 +200,38 @@
                         <lottie-player
                             src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
                         </lottie-player>
+                        <div class="box-hover-info">
+                            <div>Stephan</div>
+                            <div>Pop & Rock</div>  
+                        </div>
                     </div>
                 </a>
             </div>
             <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box p-0">
                 <a href="#">
                     <div class="box-bg p3" style='background-image:url("images/artist-ex-2.jpg")'></div>
-                    <div class="box-hover">
-                    <lottie-player
-                        src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
-                    </lottie-player>
+                        <div class="box-hover">
+                        <lottie-player
+                            src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
+                        </lottie-player>
+                        <div class="box-hover-info">
+                            <div>Stephan</div>
+                            <div>Pop & Rock</div>  
+                        </div>
                 </div>
                 </a>
             </div>
             <div class="col-12 col-sm-6 col-md-3 col-lg-3 artist-box p-0">
                 <a href="#">
                     <div class="box-bg p4" style='background-image:url("images/artist-ex-3.jpg")'></div>
-                    <div class="box-hover">
-                    <lottie-player
-                        src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
-                    </lottie-player>
+                        <div class="box-hover">
+                        <lottie-player
+                            src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
+                        </lottie-player>
+                        <div class="box-hover-info">
+                            <div>Stephan</div>
+                            <div>Pop & Rock</div>  
+                        </div>
                     </div>
                 </a>
             </div>
@@ -186,9 +239,13 @@
                 <a href="#">
                     <div class="box-bg p5" style='background-image:url("images/artist-ex-4.jpg")'></div>
                     <div class="box-hover">
-                    <lottie-player
-                        src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
-                    </lottie-player>
+                        <lottie-player
+                            src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
+                        </lottie-player>
+                        <div class="box-hover-info">
+                            <div>Stephan</div>
+                            <div>Pop & Rock</div>  
+                        </div>
                     </div>
                 </a>
             </div>
@@ -196,9 +253,13 @@
                 <a href="">
                     <div class="box-bg p6" style='background-image:url("images/artist-ex-5.jpg")'></div>
                     <div class="box-hover">
-                    <lottie-player
-                        src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
-                    </lottie-player>
+                        <lottie-player
+                            src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
+                        </lottie-player>
+                        <div class="box-hover-info">
+                            <div>Stephan</div>
+                            <div>Pop & Rock</div>  
+                        </div>
                     </div>
                 </a>
             </div>
@@ -209,6 +270,10 @@
                     <lottie-player
                         src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
                     </lottie-player>
+                    <div class="box-hover-info">
+                        <div>Stephan</div>
+                        <div>Pop & Rock</div>  
+                    </div>
                 </div>
                 </a>
             </div>

@@ -39,6 +39,10 @@
                             <lottie-player
                                 src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
                             </lottie-player>
+                            <div class="box-hover-info">
+                                <div>Stephan</div>
+                                <div>Pop & Rock</div>  
+                            </div>
                         </div>
                     </a>
                  </div>
@@ -49,6 +53,10 @@
                             <lottie-player
                                 src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
                             </lottie-player>
+                            <div class="box-hover-info">
+                                <div>Stephan</div>
+                                <div>Pop & Rock</div>  
+                            </div>
                         </div>
                     </a>
                 </div>
@@ -59,6 +67,10 @@
                         <lottie-player
                             src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
                         </lottie-player>
+                            <div class="box-hover-info">
+                                <div>Stephan</div>
+                                <div>Pop & Rock</div>  
+                            </div>
                     </div>
                     </a>
                 </div>
@@ -69,6 +81,10 @@
                         <lottie-player
                             src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
                         </lottie-player>
+                            <div class="box-hover-info">
+                                <div>Stephan</div>
+                                <div>Pop & Rock</div>  
+                            </div>
                         </div>
                     </a>
                 </div>
@@ -79,6 +95,10 @@
                         <lottie-player
                             src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
                         </lottie-player>
+                            <div class="box-hover-info">
+                                <div>Stephan</div>
+                                <div>Pop & Rock</div>  
+                            </div>
                         </div>
                     </a>
                 </div>
@@ -89,6 +109,10 @@
                         <lottie-player
                             src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
                         </lottie-player>
+                            <div class="box-hover-info">
+                                <div>Stephan</div>
+                                <div>Pop & Rock</div>  
+                            </div>
                         </div>
                     </a>
                 </div>
@@ -99,6 +123,10 @@
                         <lottie-player
                             src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
                         </lottie-player>
+                            <div class="box-hover-info">
+                                <div>Stephan</div>
+                                <div>Pop & Rock</div>  
+                            </div>
                     </div>
                     </a>
                 </div>
@@ -109,6 +137,10 @@
                         <lottie-player
                             src="https://assets9.lottiefiles.com/temp/lf20_ERpSsi.json"  background="transparent"  speed="1"  style="width: 100%; height: 300px; z-index:2" hover loop autoplay >
                         </lottie-player>
+                            <div class="box-hover-info">
+                                <div>Stephan</div>
+                                <div>Pop & Rock</div>  
+                            </div>
                     </div>
                     </a>
                 </div>         

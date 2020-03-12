@@ -153,6 +153,21 @@ input[placeholder]::-moz-input-placeholder {
             transform: translateX(-50%);
             width: 70%;
             height: 100%;
+            .box-hover-info{
+                margin-left: -6%;
+                margin-top: -20%;                
+                line-height: 17px;
+                div:first-child{
+                    font-weight: 600;
+                    font-size: 1.3rem;
+                }
+                div:nth-child(2){
+                    
+                }
+                div{
+                    color: $white;
+                }    
+            }
         }
 
         a {

@@ -14,14 +14,26 @@
 <section id="p2s2">
 <div class="container">
         <div class="row">
-            <div class="col-12 headline-text">
-                <h1><span>Events Listing<span></h1>
-                <h2 class="listing"> Listing </h2>
+            <div class="col-12">
+                <div class="headline-text">
+                    <h1><span>Events Listing<span></h1>
+                    <h2 class="listing"> Listing </h2>
+                    </div>
+                    <div class="col-12">
+                        <div class="subhead-text">
+                            <p class="month-year">April - 2020</p>
+                            <div class="tags-bar">
+                                <ul class="d-flex justify-content-between">
+                                    <li>All</li> |
+                                    <li>Arts & Music</li> |
+                                    <li>Workshop</li> |
+                                    <li>Market</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-                <div class="col-12 subhead-text">
-                    <p class="month-year">April - 2020</p>
-                </div>
-                </div>
+            </div>
             <!-- 1 -->
             <div class="col-12 party-info">
                 <div class="date">
